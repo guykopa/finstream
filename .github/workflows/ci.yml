@@ -44,6 +44,11 @@ jobs:
         env:
           JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
 
+      - name: Run database migrations
+        run: alembic -c migrations/alembic.ini upgrade head
+        env:
+          DATABASE_URL: postgresql://test:test@localhost:5432/finstream_test
+
       - name: Run integration tests
         run: pytest tests/integration/ -v --no-cov
         env:
