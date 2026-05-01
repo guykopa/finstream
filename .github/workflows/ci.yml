@@ -1,0 +1,67 @@
+name: finstream CI
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_DB: finstream_test
+          POSTGRES_USER: test
+          POSTGRES_PASSWORD: test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Lint with flake8
+        run: flake8 finstream/ tests/ --max-line-length=100 --extend-ignore=E203
+
+      - name: Type check with mypy
+        run: mypy finstream/ --ignore-missing-imports
+        continue-on-error: true
+
+      - name: Run unit tests
+        run: pytest tests/unit/ -v --cov=finstream --cov-report=xml
+        env:
+          JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
+
+      - name: Run integration tests
+        run: pytest tests/integration/ -v --no-cov
+        env:
+          JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
+          DATABASE_URL: postgresql://test:test@localhost:5432/finstream_test
+
+      - name: Run non-regression tests
+        run: pytest tests/non_regression/ -v --no-cov
+        env:
+          JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
+
+      - name: Fail if coverage below 90%
+        run: pytest --cov=finstream --cov-fail-under=90 --no-header -q
+        env:
+          JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
+
+      - name: Upload coverage report
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: htmlcov/

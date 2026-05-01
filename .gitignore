@@ -1,0 +1,64 @@
+# Claude / project docs
+CLAUDE.md
+Architecture.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/postgres-data/
+
+# Alembic
+migrations/versions/*.pyc
+
+# Logs
+*.log
+logs/
+
+# Sphinx build
+docs/_build/
+
+# Prometheus / Grafana data
+monitoring/data/
