@@ -1,0 +1,1261 @@
+id,amount,currency,entity,date,source
+AAPL-20241001,14222.28,USD,Apple,2024-10-01,yahoo_finance
+AAPL-20241002,7408.0,USD,Apple,2024-10-02,yahoo_finance
+AAPL-20241003,7632.62,USD,Apple,2024-10-03,yahoo_finance
+AAPL-20241004,8392.06,USD,Apple,2024-10-04,yahoo_finance
+AAPL-20241007,8700.8,USD,Apple,2024-10-07,yahoo_finance
+AAPL-20241008,7145.13,USD,Apple,2024-10-08,yahoo_finance
+AAPL-20241009,7660.18,USD,Apple,2024-10-09,yahoo_finance
+AAPL-20241010,6413.02,USD,Apple,2024-10-10,yahoo_finance
+AAPL-20241011,7179.64,USD,Apple,2024-10-11,yahoo_finance
+AAPL-20241014,9164.53,USD,Apple,2024-10-14,yahoo_finance
+AAPL-20241015,15043.3,USD,Apple,2024-10-15,yahoo_finance
+AAPL-20241016,7848.02,USD,Apple,2024-10-16,yahoo_finance
+AAPL-20241017,7609.52,USD,Apple,2024-10-17,yahoo_finance
+AAPL-20241018,10840.19,USD,Apple,2024-10-18,yahoo_finance
+AAPL-20241021,8517.51,USD,Apple,2024-10-21,yahoo_finance
+AAPL-20241022,9102.56,USD,Apple,2024-10-22,yahoo_finance
+AAPL-20241023,11987.01,USD,Apple,2024-10-23,yahoo_finance
+AAPL-20241024,7126.11,USD,Apple,2024-10-24,yahoo_finance
+AAPL-20241025,8920.64,USD,Apple,2024-10-25,yahoo_finance
+AAPL-20241028,8367.76,USD,Apple,2024-10-28,yahoo_finance
+AAPL-20241029,8221.93,USD,Apple,2024-10-29,yahoo_finance
+AAPL-20241030,10760.33,USD,Apple,2024-10-30,yahoo_finance
+AAPL-20241031,14446.95,USD,Apple,2024-10-31,yahoo_finance
+AAPL-20241101,14455.87,USD,Apple,2024-11-01,yahoo_finance
+AAPL-20241104,9913.01,USD,Apple,2024-11-04,yahoo_finance
+AAPL-20241105,6240.48,USD,Apple,2024-11-05,yahoo_finance
+AAPL-20241106,12072.54,USD,Apple,2024-11-06,yahoo_finance
+AAPL-20241107,9522.93,USD,Apple,2024-11-07,yahoo_finance
+AAPL-20241108,8651.84,USD,Apple,2024-11-08,yahoo_finance
+AAPL-20241111,9367.74,USD,Apple,2024-11-11,yahoo_finance
+AAPL-20241112,9009.3,USD,Apple,2024-11-12,yahoo_finance
+AAPL-20241113,10873.82,USD,Apple,2024-11-13,yahoo_finance
+AAPL-20241114,10196.83,USD,Apple,2024-11-14,yahoo_finance
+AAPL-20241115,10724.25,USD,Apple,2024-11-15,yahoo_finance
+AAPL-20241118,10122.08,USD,Apple,2024-11-18,yahoo_finance
+AAPL-20241119,8221.52,USD,Apple,2024-11-19,yahoo_finance
+AAPL-20241120,8010.08,USD,Apple,2024-11-20,yahoo_finance
+AAPL-20241121,9570.31,USD,Apple,2024-11-21,yahoo_finance
+AAPL-20241122,8726.08,USD,Apple,2024-11-22,yahoo_finance
+AAPL-20241125,20879.82,USD,Apple,2024-11-25,yahoo_finance
+AAPL-20241126,10750.79,USD,Apple,2024-11-26,yahoo_finance
+AAPL-20241127,7827.02,USD,Apple,2024-11-27,yahoo_finance
+AAPL-20241129,6722.77,USD,Apple,2024-11-29,yahoo_finance
+AAPL-20241202,11470.51,USD,Apple,2024-12-02,yahoo_finance
+AAPL-20241203,9378.39,USD,Apple,2024-12-03,yahoo_finance
+AAPL-20241204,10727.13,USD,Apple,2024-12-04,yahoo_finance
+AAPL-20241205,9676.98,USD,Apple,2024-12-05,yahoo_finance
+AAPL-20241206,8905.01,USD,Apple,2024-12-06,yahoo_finance
+AAPL-20241209,10957.33,USD,Apple,2024-12-09,yahoo_finance
+AAPL-20241210,9096.69,USD,Apple,2024-12-10,yahoo_finance
+AAPL-20241211,11082.24,USD,Apple,2024-12-11,yahoo_finance
+AAPL-20241212,8083.35,USD,Apple,2024-12-12,yahoo_finance
+AAPL-20241213,8182.13,USD,Apple,2024-12-13,yahoo_finance
+AAPL-20241216,12906.96,USD,Apple,2024-12-16,yahoo_finance
+AAPL-20241217,12947.09,USD,Apple,2024-12-17,yahoo_finance
+AAPL-20241218,14006.3,USD,Apple,2024-12-18,yahoo_finance
+AAPL-20241219,15125.16,USD,Apple,2024-12-19,yahoo_finance
+AAPL-20241220,37332.14,USD,Apple,2024-12-20,yahoo_finance
+AAPL-20241223,10373.36,USD,Apple,2024-12-23,yahoo_finance
+AAPL-20241224,5966.61,USD,Apple,2024-12-24,yahoo_finance
+AAPL-20241226,7016.62,USD,Apple,2024-12-26,yahoo_finance
+AAPL-20241227,10766.77,USD,Apple,2024-12-27,yahoo_finance
+AAPL-20241230,8918.88,USD,Apple,2024-12-30,yahoo_finance
+MSFT-20241001,7939.32,USD,Microsoft,2024-10-01,yahoo_finance
+MSFT-20241002,6837.0,USD,Microsoft,2024-10-02,yahoo_finance
+MSFT-20241003,5635.02,USD,Microsoft,2024-10-03,yahoo_finance
+MSFT-20241004,7883.53,USD,Microsoft,2024-10-04,yahoo_finance
+MSFT-20241007,8468.44,USD,Microsoft,2024-10-07,yahoo_finance
+MSFT-20241008,7882.38,USD,Microsoft,2024-10-08,yahoo_finance
+MSFT-20241009,6178.9,USD,Microsoft,2024-10-09,yahoo_finance
+MSFT-20241010,5692.14,USD,Microsoft,2024-10-10,yahoo_finance
+MSFT-20241011,5820.72,USD,Microsoft,2024-10-11,yahoo_finance
+MSFT-20241014,6899.28,USD,Microsoft,2024-10-14,yahoo_finance
+MSFT-20241015,7822.77,USD,Microsoft,2024-10-15,yahoo_finance
+MSFT-20241016,6378.95,USD,Microsoft,2024-10-16,yahoo_finance
+MSFT-20241017,6104.39,USD,Microsoft,2024-10-17,yahoo_finance
+MSFT-20241018,7086.59,USD,Microsoft,2024-10-18,yahoo_finance
+MSFT-20241021,5880.45,USD,Microsoft,2024-10-21,yahoo_finance
+MSFT-20241022,10767.94,USD,Microsoft,2024-10-22,yahoo_finance
+MSFT-20241023,8248.77,USD,Microsoft,2024-10-23,yahoo_finance
+MSFT-20241024,5701.82,USD,Microsoft,2024-10-24,yahoo_finance
+MSFT-20241025,7151.7,USD,Microsoft,2024-10-25,yahoo_finance
+MSFT-20241028,6275.28,USD,Microsoft,2024-10-28,yahoo_finance
+MSFT-20241029,7533.25,USD,Microsoft,2024-10-29,yahoo_finance
+MSFT-20241030,12718.61,USD,Microsoft,2024-10-30,yahoo_finance
+MSFT-20241031,21677.55,USD,Microsoft,2024-10-31,yahoo_finance
+MSFT-20241101,9828.46,USD,Microsoft,2024-11-01,yahoo_finance
+MSFT-20241104,7942.44,USD,Microsoft,2024-11-04,yahoo_finance
+MSFT-20241105,7168.54,USD,Microsoft,2024-11-05,yahoo_finance
+MSFT-20241106,11081.54,USD,Microsoft,2024-11-06,yahoo_finance
+MSFT-20241107,8368.93,USD,Microsoft,2024-11-07,yahoo_finance
+MSFT-20241108,7054.77,USD,Microsoft,2024-11-08,yahoo_finance
+MSFT-20241111,10124.2,USD,Microsoft,2024-11-11,yahoo_finance
+MSFT-20241112,8112.4,USD,Microsoft,2024-11-12,yahoo_finance
+MSFT-20241113,9037.03,USD,Microsoft,2024-11-13,yahoo_finance
+MSFT-20241114,12762.81,USD,Microsoft,2024-11-14,yahoo_finance
+MSFT-20241115,11587.22,USD,Microsoft,2024-11-15,yahoo_finance
+MSFT-20241118,10161.64,USD,Microsoft,2024-11-18,yahoo_finance
+MSFT-20241119,7488.4,USD,Microsoft,2024-11-19,yahoo_finance
+MSFT-20241120,7881.77,USD,Microsoft,2024-11-20,yahoo_finance
+MSFT-20241121,8497.3,USD,Microsoft,2024-11-21,yahoo_finance
+MSFT-20241122,10248.52,USD,Microsoft,2024-11-22,yahoo_finance
+MSFT-20241125,11485.62,USD,Microsoft,2024-11-25,yahoo_finance
+MSFT-20241126,9943.96,USD,Microsoft,2024-11-26,yahoo_finance
+MSFT-20241127,7680.11,USD,Microsoft,2024-11-27,yahoo_finance
+MSFT-20241129,6824.46,USD,Microsoft,2024-11-29,yahoo_finance
+MSFT-20241202,8625.44,USD,Microsoft,2024-12-02,yahoo_finance
+MSFT-20241203,7816.19,USD,Microsoft,2024-12-03,yahoo_finance
+MSFT-20241204,11268.0,USD,Microsoft,2024-12-04,yahoo_finance
+MSFT-20241205,9511.84,USD,Microsoft,2024-12-05,yahoo_finance
+MSFT-20241206,8268.43,USD,Microsoft,2024-12-06,yahoo_finance
+MSFT-20241209,8456.96,USD,Microsoft,2024-12-09,yahoo_finance
+MSFT-20241210,8109.61,USD,Microsoft,2024-12-10,yahoo_finance
+MSFT-20241211,8538.08,USD,Microsoft,2024-12-11,yahoo_finance
+MSFT-20241212,9276.73,USD,Microsoft,2024-12-12,yahoo_finance
+MSFT-20241213,8938.44,USD,Microsoft,2024-12-13,yahoo_finance
+MSFT-20241216,10554.85,USD,Microsoft,2024-12-16,yahoo_finance
+MSFT-20241217,10232.46,USD,Microsoft,2024-12-17,yahoo_finance
+MSFT-20241218,10589.32,USD,Microsoft,2024-12-18,yahoo_finance
+MSFT-20241219,9939.65,USD,Microsoft,2024-12-19,yahoo_finance
+MSFT-20241220,27788.65,USD,Microsoft,2024-12-20,yahoo_finance
+MSFT-20241223,8256.24,USD,Microsoft,2024-12-23,yahoo_finance
+MSFT-20241224,3117.42,USD,Microsoft,2024-12-24,yahoo_finance
+MSFT-20241226,3555.56,USD,Microsoft,2024-12-26,yahoo_finance
+MSFT-20241227,7725.46,USD,Microsoft,2024-12-27,yahoo_finance
+MSFT-20241230,5536.64,USD,Microsoft,2024-12-30,yahoo_finance
+GOOGL-20241001,4705.01,USD,Alphabet,2024-10-01,yahoo_finance
+GOOGL-20241002,2928.79,USD,Alphabet,2024-10-02,yahoo_finance
+GOOGL-20241003,2485.67,USD,Alphabet,2024-10-03,yahoo_finance
+GOOGL-20241004,3163.79,USD,Alphabet,2024-10-04,yahoo_finance
+GOOGL-20241007,3640.02,USD,Alphabet,2024-10-07,yahoo_finance
+GOOGL-20241008,3770.92,USD,Alphabet,2024-10-08,yahoo_finance
+GOOGL-20241009,5018.11,USD,Alphabet,2024-10-09,yahoo_finance
+GOOGL-20241010,2279.31,USD,Alphabet,2024-10-10,yahoo_finance
+GOOGL-20241011,2490.42,USD,Alphabet,2024-10-11,yahoo_finance
+GOOGL-20241014,3118.89,USD,Alphabet,2024-10-14,yahoo_finance
+GOOGL-20241015,3330.87,USD,Alphabet,2024-10-15,yahoo_finance
+GOOGL-20241016,2694.06,USD,Alphabet,2024-10-16,yahoo_finance
+GOOGL-20241017,3475.33,USD,Alphabet,2024-10-17,yahoo_finance
+GOOGL-20241018,3210.27,USD,Alphabet,2024-10-18,yahoo_finance
+GOOGL-20241021,3416.96,USD,Alphabet,2024-10-21,yahoo_finance
+GOOGL-20241022,2720.35,USD,Alphabet,2024-10-22,yahoo_finance
+GOOGL-20241023,2958.61,USD,Alphabet,2024-10-23,yahoo_finance
+GOOGL-20241024,3626.02,USD,Alphabet,2024-10-24,yahoo_finance
+GOOGL-20241025,3258.31,USD,Alphabet,2024-10-25,yahoo_finance
+GOOGL-20241028,5327.38,USD,Alphabet,2024-10-28,yahoo_finance
+GOOGL-20241029,7114.15,USD,Alphabet,2024-10-29,yahoo_finance
+GOOGL-20241030,11949.69,USD,Alphabet,2024-10-30,yahoo_finance
+GOOGL-20241031,7616.44,USD,Alphabet,2024-10-31,yahoo_finance
+GOOGL-20241101,5415.15,USD,Alphabet,2024-11-01,yahoo_finance
+GOOGL-20241104,3616.54,USD,Alphabet,2024-11-04,yahoo_finance
+GOOGL-20241105,3078.64,USD,Alphabet,2024-11-05,yahoo_finance
+GOOGL-20241106,5913.45,USD,Alphabet,2024-11-06,yahoo_finance
+GOOGL-20241107,4556.23,USD,Alphabet,2024-11-07,yahoo_finance
+GOOGL-20241108,3902.27,USD,Alphabet,2024-11-08,yahoo_finance
+GOOGL-20241111,3129.11,USD,Alphabet,2024-11-11,yahoo_finance
+GOOGL-20241112,4538.79,USD,Alphabet,2024-11-12,yahoo_finance
+GOOGL-20241113,4123.34,USD,Alphabet,2024-11-13,yahoo_finance
+GOOGL-20241114,5413.04,USD,Alphabet,2024-11-14,yahoo_finance
+GOOGL-20241115,5574.53,USD,Alphabet,2024-11-15,yahoo_finance
+GOOGL-20241118,3509.45,USD,Alphabet,2024-11-18,yahoo_finance
+GOOGL-20241119,4150.26,USD,Alphabet,2024-11-19,yahoo_finance
+GOOGL-20241120,3323.92,USD,Alphabet,2024-11-20,yahoo_finance
+GOOGL-20241121,9955.79,USD,Alphabet,2024-11-21,yahoo_finance
+GOOGL-20241122,6323.98,USD,Alphabet,2024-11-22,yahoo_finance
+GOOGL-20241125,5523.24,USD,Alphabet,2024-11-25,yahoo_finance
+GOOGL-20241126,3444.82,USD,Alphabet,2024-11-26,yahoo_finance
+GOOGL-20241127,3241.75,USD,Alphabet,2024-11-27,yahoo_finance
+GOOGL-20241129,2394.92,USD,Alphabet,2024-11-29,yahoo_finance
+GOOGL-20241202,4056.17,USD,Alphabet,2024-12-02,yahoo_finance
+GOOGL-20241203,3790.21,USD,Alphabet,2024-12-03,yahoo_finance
+GOOGL-20241204,5481.07,USD,Alphabet,2024-12-04,yahoo_finance
+GOOGL-20241205,3665.77,USD,Alphabet,2024-12-05,yahoo_finance
+GOOGL-20241206,3728.17,USD,Alphabet,2024-12-06,yahoo_finance
+GOOGL-20241209,4432.08,USD,Alphabet,2024-12-09,yahoo_finance
+GOOGL-20241210,10103.02,USD,Alphabet,2024-12-10,yahoo_finance
+GOOGL-20241211,13205.46,USD,Alphabet,2024-12-11,yahoo_finance
+GOOGL-20241212,6652.81,USD,Alphabet,2024-12-12,yahoo_finance
+GOOGL-20241213,4750.78,USD,Alphabet,2024-12-13,yahoo_finance
+GOOGL-20241216,8796.23,USD,Alphabet,2024-12-16,yahoo_finance
+GOOGL-20241217,8462.43,USD,Alphabet,2024-12-17,yahoo_finance
+GOOGL-20241218,6407.27,USD,Alphabet,2024-12-18,yahoo_finance
+GOOGL-20241219,6054.32,USD,Alphabet,2024-12-19,yahoo_finance
+GOOGL-20241220,12091.53,USD,Alphabet,2024-12-20,yahoo_finance
+GOOGL-20241223,4974.13,USD,Alphabet,2024-12-23,yahoo_finance
+GOOGL-20241224,2030.8,USD,Alphabet,2024-12-24,yahoo_finance
+GOOGL-20241226,2345.47,USD,Alphabet,2024-12-26,yahoo_finance
+GOOGL-20241227,3624.75,USD,Alphabet,2024-12-27,yahoo_finance
+GOOGL-20241230,2715.43,USD,Alphabet,2024-12-30,yahoo_finance
+AMZN-20241001,6672.99,USD,Amazon,2024-10-01,yahoo_finance
+AMZN-20241002,4379.57,USD,Amazon,2024-10-02,yahoo_finance
+AMZN-20241003,5495.97,USD,Amazon,2024-10-03,yahoo_finance
+AMZN-20241004,7626.45,USD,Amazon,2024-10-04,yahoo_finance
+AMZN-20241007,7659.45,USD,Amazon,2024-10-07,yahoo_finance
+AMZN-20241008,4818.71,USD,Amazon,2024-10-08,yahoo_finance
+AMZN-20241009,4877.95,USD,Amazon,2024-10-09,yahoo_finance
+AMZN-20241010,5186.07,USD,Amazon,2024-10-10,yahoo_finance
+AMZN-20241011,4862.42,USD,Amazon,2024-10-11,yahoo_finance
+AMZN-20241014,4241.1,USD,Amazon,2024-10-14,yahoo_finance
+AMZN-20241015,6039.66,USD,Amazon,2024-10-15,yahoo_finance
+AMZN-20241016,4383.84,USD,Amazon,2024-10-16,yahoo_finance
+AMZN-20241017,4695.64,USD,Amazon,2024-10-17,yahoo_finance
+AMZN-20241018,7071.57,USD,Amazon,2024-10-18,yahoo_finance
+AMZN-20241021,4658.57,USD,Amazon,2024-10-21,yahoo_finance
+AMZN-20241022,5624.72,USD,Amazon,2024-10-22,yahoo_finance
+AMZN-20241023,5899.1,USD,Amazon,2024-10-23,yahoo_finance
+AMZN-20241024,4034.64,USD,Amazon,2024-10-24,yahoo_finance
+AMZN-20241025,5515.08,USD,Amazon,2024-10-25,yahoo_finance
+AMZN-20241028,5261.88,USD,Amazon,2024-10-28,yahoo_finance
+AMZN-20241029,6810.76,USD,Amazon,2024-10-29,yahoo_finance
+AMZN-20241030,7267.39,USD,Amazon,2024-10-30,yahoo_finance
+AMZN-20241031,14007.36,USD,Amazon,2024-10-31,yahoo_finance
+AMZN-20241101,19731.21,USD,Amazon,2024-11-01,yahoo_finance
+AMZN-20241104,7535.98,USD,Amazon,2024-11-04,yahoo_finance
+AMZN-20241105,6097.68,USD,Amazon,2024-11-05,yahoo_finance
+AMZN-20241106,14970.99,USD,Amazon,2024-11-06,yahoo_finance
+AMZN-20241107,11107.11,USD,Amazon,2024-11-07,yahoo_finance
+AMZN-20241108,7510.26,USD,Amazon,2024-11-08,yahoo_finance
+AMZN-20241111,7333.72,USD,Amazon,2024-11-11,yahoo_finance
+AMZN-20241112,8135.56,USD,Amazon,2024-11-12,yahoo_finance
+AMZN-20241113,9894.18,USD,Amazon,2024-11-13,yahoo_finance
+AMZN-20241114,9013.34,USD,Amazon,2024-11-14,yahoo_finance
+AMZN-20241115,17544.22,USD,Amazon,2024-11-15,yahoo_finance
+AMZN-20241118,7343.88,USD,Amazon,2024-11-18,yahoo_finance
+AMZN-20241119,6383.4,USD,Amazon,2024-11-19,yahoo_finance
+AMZN-20241120,6648.17,USD,Amazon,2024-11-20,yahoo_finance
+AMZN-20241121,11664.74,USD,Amazon,2024-11-21,yahoo_finance
+AMZN-20241122,6215.35,USD,Amazon,2024-11-22,yahoo_finance
+AMZN-20241125,8196.13,USD,Amazon,2024-11-25,yahoo_finance
+AMZN-20241126,8662.3,USD,Amazon,2024-11-26,yahoo_finance
+AMZN-20241127,5773.39,USD,Amazon,2024-11-27,yahoo_finance
+AMZN-20241129,5174.88,USD,Amazon,2024-11-29,yahoo_finance
+AMZN-20241202,8327.93,USD,Amazon,2024-12-02,yahoo_finance
+AMZN-20241203,6875.93,USD,Amazon,2024-12-03,yahoo_finance
+AMZN-20241204,10634.36,USD,Amazon,2024-12-04,yahoo_finance
+AMZN-20241205,9073.47,USD,Amazon,2024-12-05,yahoo_finance
+AMZN-20241206,10029.75,USD,Amazon,2024-12-06,yahoo_finance
+AMZN-20241209,10585.4,USD,Amazon,2024-12-09,yahoo_finance
+AMZN-20241210,7021.23,USD,Amazon,2024-12-10,yahoo_finance
+AMZN-20241211,8147.93,USD,Amazon,2024-12-11,yahoo_finance
+AMZN-20241212,6457.89,USD,Amazon,2024-12-12,yahoo_finance
+AMZN-20241213,6543.59,USD,Amazon,2024-12-13,yahoo_finance
+AMZN-20241216,8747.01,USD,Amazon,2024-12-16,yahoo_finance
+AMZN-20241217,8309.4,USD,Amazon,2024-12-17,yahoo_finance
+AMZN-20241218,9544.41,USD,Amazon,2024-12-18,yahoo_finance
+AMZN-20241219,8913.45,USD,Amazon,2024-12-19,yahoo_finance
+AMZN-20241220,19855.76,USD,Amazon,2024-12-20,yahoo_finance
+AMZN-20241223,6317.43,USD,Amazon,2024-12-23,yahoo_finance
+AMZN-20241224,3437.47,USD,Amazon,2024-12-24,yahoo_finance
+AMZN-20241226,3666.11,USD,Amazon,2024-12-26,yahoo_finance
+AMZN-20241227,6123.39,USD,Amazon,2024-12-27,yahoo_finance
+AMZN-20241230,6267.48,USD,Amazon,2024-12-30,yahoo_finance
+NVDA-20241001,35331.04,USD,Nvidia,2024-10-01,yahoo_finance
+NVDA-20241002,26355.93,USD,Nvidia,2024-10-02,yahoo_finance
+NVDA-20241003,34030.45,USD,Nvidia,2024-10-03,yahoo_finance
+NVDA-20241004,30428.2,USD,Nvidia,2024-10-04,yahoo_finance
+NVDA-20241007,44205.54,USD,Nvidia,2024-10-07,yahoo_finance
+NVDA-20241008,37954.61,USD,Nvidia,2024-10-08,yahoo_finance
+NVDA-20241009,32644.37,USD,Nvidia,2024-10-09,yahoo_finance
+NVDA-20241010,32653.03,USD,Nvidia,2024-10-10,yahoo_finance
+NVDA-20241011,22935.15,USD,Nvidia,2024-10-11,yahoo_finance
+NVDA-20241014,32067.53,USD,Nvidia,2024-10-14,yahoo_finance
+NVDA-20241015,49702.85,USD,Nvidia,2024-10-15,yahoo_finance
+NVDA-20241016,35935.23,USD,Nvidia,2024-10-16,yahoo_finance
+NVDA-20241017,41943.63,USD,Nvidia,2024-10-17,yahoo_finance
+NVDA-20241018,24290.81,USD,Nvidia,2024-10-18,yahoo_finance
+NVDA-20241021,38004.06,USD,Nvidia,2024-10-21,yahoo_finance
+NVDA-20241022,32483.2,USD,Nvidia,2024-10-22,yahoo_finance
+NVDA-20241023,39888.57,USD,Nvidia,2024-10-23,yahoo_finance
+NVDA-20241024,24190.76,USD,Nvidia,2024-10-24,yahoo_finance
+NVDA-20241025,29021.47,USD,Nvidia,2024-10-25,yahoo_finance
+NVDA-20241028,24382.74,USD,Nvidia,2024-10-28,yahoo_finance
+NVDA-20241029,22251.27,USD,Nvidia,2024-10-29,yahoo_finance
+NVDA-20241030,24990.21,USD,Nvidia,2024-10-30,yahoo_finance
+NVDA-20241031,35836.25,USD,Nvidia,2024-10-31,yahoo_finance
+NVDA-20241101,28033.99,USD,Nvidia,2024-11-01,yahoo_finance
+NVDA-20241104,25503.1,USD,Nvidia,2024-11-04,yahoo_finance
+NVDA-20241105,22451.89,USD,Nvidia,2024-11-05,yahoo_finance
+NVDA-20241106,35230.04,USD,Nvidia,2024-11-06,yahoo_finance
+NVDA-20241107,30854.06,USD,Nvidia,2024-11-07,yahoo_finance
+NVDA-20241108,25923.26,USD,Nvidia,2024-11-08,yahoo_finance
+NVDA-20241111,26474.11,USD,Nvidia,2024-11-11,yahoo_finance
+NVDA-20241112,29443.86,USD,Nvidia,2024-11-12,yahoo_finance
+NVDA-20241113,28058.57,USD,Nvidia,2024-11-13,yahoo_finance
+NVDA-20241114,28528.12,USD,Nvidia,2024-11-14,yahoo_finance
+NVDA-20241115,35499.78,USD,Nvidia,2024-11-15,yahoo_finance
+NVDA-20241118,30989.63,USD,Nvidia,2024-11-18,yahoo_finance
+NVDA-20241119,33480.73,USD,Nvidia,2024-11-19,yahoo_finance
+NVDA-20241120,45189.26,USD,Nvidia,2024-11-20,yahoo_finance
+NVDA-20241121,58783.53,USD,Nvidia,2024-11-21,yahoo_finance
+NVDA-20241122,33544.56,USD,Nvidia,2024-11-22,yahoo_finance
+NVDA-20241125,46900.4,USD,Nvidia,2024-11-25,yahoo_finance
+NVDA-20241126,26043.86,USD,Nvidia,2024-11-26,yahoo_finance
+NVDA-20241127,30624.89,USD,Nvidia,2024-11-27,yahoo_finance
+NVDA-20241129,19604.81,USD,Nvidia,2024-11-29,yahoo_finance
+NVDA-20241202,23790.95,USD,Nvidia,2024-12-02,yahoo_finance
+NVDA-20241203,23051.57,USD,Nvidia,2024-12-03,yahoo_finance
+NVDA-20241204,33546.59,USD,Nvidia,2024-12-04,yahoo_finance
+NVDA-20241205,25032.23,USD,Nvidia,2024-12-05,yahoo_finance
+NVDA-20241206,26841.94,USD,Nvidia,2024-12-06,yahoo_finance
+NVDA-20241209,26269.32,USD,Nvidia,2024-12-09,yahoo_finance
+NVDA-20241210,28358.23,USD,Nvidia,2024-12-10,yahoo_finance
+NVDA-20241211,25750.7,USD,Nvidia,2024-12-11,yahoo_finance
+NVDA-20241212,21858.93,USD,Nvidia,2024-12-12,yahoo_finance
+NVDA-20241213,31070.69,USD,Nvidia,2024-12-13,yahoo_finance
+NVDA-20241216,31399.25,USD,Nvidia,2024-12-16,yahoo_finance
+NVDA-20241217,33813.43,USD,Nvidia,2024-12-17,yahoo_finance
+NVDA-20241218,35753.66,USD,Nvidia,2024-12-18,yahoo_finance
+NVDA-20241219,27397.12,USD,Nvidia,2024-12-19,yahoo_finance
+NVDA-20241220,41275.87,USD,Nvidia,2024-12-20,yahoo_finance
+NVDA-20241223,24581.34,USD,Nvidia,2024-12-23,yahoo_finance
+NVDA-20241224,14740.28,USD,Nvidia,2024-12-24,yahoo_finance
+NVDA-20241226,16255.32,USD,Nvidia,2024-12-26,yahoo_finance
+NVDA-20241227,23363.87,USD,Nvidia,2024-12-27,yahoo_finance
+NVDA-20241230,23054.29,USD,Nvidia,2024-12-30,yahoo_finance
+META-20241001,8754.31,USD,Meta,2024-10-01,yahoo_finance
+META-20241002,3719.48,USD,Meta,2024-10-02,yahoo_finance
+META-20241003,6716.67,USD,Meta,2024-10-03,yahoo_finance
+META-20241004,8403.65,USD,Meta,2024-10-04,yahoo_finance
+META-20241007,6991.95,USD,Meta,2024-10-07,yahoo_finance
+META-20241008,4636.22,USD,Meta,2024-10-08,yahoo_finance
+META-20241009,5600.38,USD,Meta,2024-10-09,yahoo_finance
+META-20241010,4497.39,USD,Meta,2024-10-10,yahoo_finance
+META-20241011,5041.65,USD,Meta,2024-10-11,yahoo_finance
+META-20241014,4848.76,USD,Meta,2024-10-14,yahoo_finance
+META-20241015,5580.3,USD,Meta,2024-10-15,yahoo_finance
+META-20241016,6468.31,USD,Meta,2024-10-16,yahoo_finance
+META-20241017,4995.89,USD,Meta,2024-10-17,yahoo_finance
+META-20241018,4414.25,USD,Meta,2024-10-18,yahoo_finance
+META-20241021,4677.59,USD,Meta,2024-10-21,yahoo_finance
+META-20241022,4949.12,USD,Meta,2024-10-22,yahoo_finance
+META-20241023,7993.14,USD,Meta,2024-10-23,yahoo_finance
+META-20241024,4059.75,USD,Meta,2024-10-24,yahoo_finance
+META-20241025,6468.26,USD,Meta,2024-10-25,yahoo_finance
+META-20241028,6286.14,USD,Meta,2024-10-28,yahoo_finance
+META-20241029,7686.91,USD,Meta,2024-10-29,yahoo_finance
+META-20241030,15822.35,USD,Meta,2024-10-30,yahoo_finance
+META-20241031,15159.84,USD,Meta,2024-10-31,yahoo_finance
+META-20241101,8637.71,USD,Meta,2024-11-01,yahoo_finance
+META-20241104,6731.92,USD,Meta,2024-11-04,yahoo_finance
+META-20241105,5568.88,USD,Meta,2024-11-05,yahoo_finance
+META-20241106,10421.35,USD,Meta,2024-11-06,yahoo_finance
+META-20241107,8628.98,USD,Meta,2024-11-07,yahoo_finance
+META-20241108,5522.42,USD,Meta,2024-11-08,yahoo_finance
+META-20241111,5925.07,USD,Meta,2024-11-11,yahoo_finance
+META-20241112,9479.66,USD,Meta,2024-11-12,yahoo_finance
+META-20241113,6209.47,USD,Meta,2024-11-13,yahoo_finance
+META-20241114,6349.14,USD,Meta,2024-11-14,yahoo_finance
+META-20241115,9767.27,USD,Meta,2024-11-15,yahoo_finance
+META-20241118,7904.94,USD,Meta,2024-11-18,yahoo_finance
+META-20241119,5317.28,USD,Meta,2024-11-19,yahoo_finance
+META-20241120,5513.98,USD,Meta,2024-11-20,yahoo_finance
+META-20241121,6250.96,USD,Meta,2024-11-21,yahoo_finance
+META-20241122,5099.37,USD,Meta,2024-11-22,yahoo_finance
+META-20241125,7648.5,USD,Meta,2024-11-25,yahoo_finance
+META-20241126,5911.42,USD,Meta,2024-11-26,yahoo_finance
+META-20241127,4078.69,USD,Meta,2024-11-27,yahoo_finance
+META-20241129,4075.54,USD,Meta,2024-11-29,yahoo_finance
+META-20241202,7388.03,USD,Meta,2024-12-02,yahoo_finance
+META-20241203,9103.9,USD,Meta,2024-12-03,yahoo_finance
+META-20241204,8977.44,USD,Meta,2024-12-04,yahoo_finance
+META-20241205,4897.27,USD,Meta,2024-12-05,yahoo_finance
+META-20241206,10513.16,USD,Meta,2024-12-06,yahoo_finance
+META-20241209,6977.01,USD,Meta,2024-12-09,yahoo_finance
+META-20241210,6742.17,USD,Meta,2024-12-10,yahoo_finance
+META-20241211,6823.58,USD,Meta,2024-12-11,yahoo_finance
+META-20241212,4692.34,USD,Meta,2024-12-12,yahoo_finance
+META-20241213,5218.84,USD,Meta,2024-12-13,yahoo_finance
+META-20241216,6768.07,USD,Meta,2024-12-16,yahoo_finance
+META-20241217,7957.49,USD,Meta,2024-12-17,yahoo_finance
+META-20241218,10156.57,USD,Meta,2024-12-18,yahoo_finance
+META-20241219,8873.0,USD,Meta,2024-12-19,yahoo_finance
+META-20241220,28556.47,USD,Meta,2024-12-20,yahoo_finance
+META-20241223,6097.49,USD,Meta,2024-12-23,yahoo_finance
+META-20241224,2860.81,USD,Meta,2024-12-24,yahoo_finance
+META-20241226,3654.55,USD,Meta,2024-12-26,yahoo_finance
+META-20241227,4829.61,USD,Meta,2024-12-27,yahoo_finance
+META-20241230,4137.39,USD,Meta,2024-12-30,yahoo_finance
+TSLA-20241001,22550.33,USD,Tesla,2024-10-01,yahoo_finance
+TSLA-20241002,23403.87,USD,Tesla,2024-10-02,yahoo_finance
+TSLA-20241003,19428.29,USD,Tesla,2024-10-03,yahoo_finance
+TSLA-20241004,21650.23,USD,Tesla,2024-10-04,yahoo_finance
+TSLA-20241007,16403.73,USD,Tesla,2024-10-07,yahoo_finance
+TSLA-20241008,13766.13,USD,Tesla,2024-10-08,yahoo_finance
+TSLA-20241009,15979.08,USD,Tesla,2024-10-09,yahoo_finance
+TSLA-20241010,19838.71,USD,Tesla,2024-10-10,yahoo_finance
+TSLA-20241011,31064.57,USD,Tesla,2024-10-11,yahoo_finance
+TSLA-20241014,18911.73,USD,Tesla,2024-10-14,yahoo_finance
+TSLA-20241015,13830.45,USD,Tesla,2024-10-15,yahoo_finance
+TSLA-20241016,10985.23,USD,Tesla,2024-10-16,yahoo_finance
+TSLA-20241017,11219.4,USD,Tesla,2024-10-17,yahoo_finance
+TSLA-20241018,10949.35,USD,Tesla,2024-10-18,yahoo_finance
+TSLA-20241021,10357.95,USD,Tesla,2024-10-21,yahoo_finance
+TSLA-20241022,9431.28,USD,Tesla,2024-10-22,yahoo_finance
+TSLA-20241023,17292.6,USD,Tesla,2024-10-23,yahoo_finance
+TSLA-20241024,53266.05,USD,Tesla,2024-10-24,yahoo_finance
+TSLA-20241025,43504.31,USD,Tesla,2024-10-25,yahoo_finance
+TSLA-20241028,28260.15,USD,Tesla,2024-10-28,yahoo_finance
+TSLA-20241029,20897.02,USD,Tesla,2024-10-29,yahoo_finance
+TSLA-20241030,13906.05,USD,Tesla,2024-10-30,yahoo_finance
+TSLA-20241031,16633.84,USD,Tesla,2024-10-31,yahoo_finance
+TSLA-20241101,14327.5,USD,Tesla,2024-11-01,yahoo_finance
+TSLA-20241104,16707.97,USD,Tesla,2024-11-04,yahoo_finance
+TSLA-20241105,17420.39,USD,Tesla,2024-11-05,yahoo_finance
+TSLA-20241106,47673.44,USD,Tesla,2024-11-06,yahoo_finance
+TSLA-20241107,34830.28,USD,Tesla,2024-11-07,yahoo_finance
+TSLA-20241108,65780.33,USD,Tesla,2024-11-08,yahoo_finance
+TSLA-20241111,73682.56,USD,Tesla,2024-11-11,yahoo_finance
+TSLA-20241112,51154.43,USD,Tesla,2024-11-12,yahoo_finance
+TSLA-20241113,41413.94,USD,Tesla,2024-11-13,yahoo_finance
+TSLA-20241114,37567.55,USD,Tesla,2024-11-14,yahoo_finance
+TSLA-20241115,36703.29,USD,Tesla,2024-11-15,yahoo_finance
+TSLA-20241118,42710.23,USD,Tesla,2024-11-18,yahoo_finance
+TSLA-20241119,30742.97,USD,Tesla,2024-11-19,yahoo_finance
+TSLA-20241120,22690.51,USD,Tesla,2024-11-20,yahoo_finance
+TSLA-20241121,19703.09,USD,Tesla,2024-11-21,yahoo_finance
+TSLA-20241122,31427.44,USD,Tesla,2024-11-22,yahoo_finance
+TSLA-20241125,32467.7,USD,Tesla,2024-11-25,yahoo_finance
+TSLA-20241126,21070.34,USD,Tesla,2024-11-26,yahoo_finance
+TSLA-20241127,19273.13,USD,Tesla,2024-11-27,yahoo_finance
+TSLA-20241129,12828.77,USD,Tesla,2024-11-29,yahoo_finance
+TSLA-20241202,27848.2,USD,Tesla,2024-12-02,yahoo_finance
+TSLA-20241203,20476.26,USD,Tesla,2024-12-03,yahoo_finance
+TSLA-20241204,18186.75,USD,Tesla,2024-12-04,yahoo_finance
+TSLA-20241205,30077.82,USD,Tesla,2024-12-05,yahoo_finance
+TSLA-20241206,31704.23,USD,Tesla,2024-12-06,yahoo_finance
+TSLA-20241209,37559.85,USD,Tesla,2024-12-09,yahoo_finance
+TSLA-20241210,39122.03,USD,Tesla,2024-12-10,yahoo_finance
+TSLA-20241211,44298.24,USD,Tesla,2024-12-11,yahoo_finance
+TSLA-20241212,36689.2,USD,Tesla,2024-12-12,yahoo_finance
+TSLA-20241213,38824.56,USD,Tesla,2024-12-13,yahoo_finance
+TSLA-20241216,52823.08,USD,Tesla,2024-12-16,yahoo_finance
+TSLA-20241217,62968.67,USD,Tesla,2024-12-17,yahoo_finance
+TSLA-20241218,65729.37,USD,Tesla,2024-12-18,yahoo_finance
+TSLA-20241219,51714.98,USD,Tesla,2024-12-19,yahoo_finance
+TSLA-20241220,55670.95,USD,Tesla,2024-12-20,yahoo_finance
+TSLA-20241223,31303.8,USD,Tesla,2024-12-23,yahoo_finance
+TSLA-20241224,27529.61,USD,Tesla,2024-12-24,yahoo_finance
+TSLA-20241226,34680.27,USD,Tesla,2024-12-26,yahoo_finance
+TSLA-20241227,35683.95,USD,Tesla,2024-12-27,yahoo_finance
+TSLA-20241230,27107.02,USD,Tesla,2024-12-30,yahoo_finance
+JPM-20241001,1704.49,USD,JPMorgan,2024-10-01,yahoo_finance
+JPM-20241002,1161.18,USD,JPMorgan,2024-10-02,yahoo_finance
+JPM-20241003,1434.61,USD,JPMorgan,2024-10-03,yahoo_finance
+JPM-20241004,2092.01,USD,JPMorgan,2024-10-04,yahoo_finance
+JPM-20241007,1374.57,USD,JPMorgan,2024-10-07,yahoo_finance
+JPM-20241008,1230.91,USD,JPMorgan,2024-10-08,yahoo_finance
+JPM-20241009,1453.95,USD,JPMorgan,2024-10-09,yahoo_finance
+JPM-20241010,1636.43,USD,JPMorgan,2024-10-10,yahoo_finance
+JPM-20241011,3949.96,USD,JPMorgan,2024-10-11,yahoo_finance
+JPM-20241014,1943.84,USD,JPMorgan,2024-10-14,yahoo_finance
+JPM-20241015,1992.14,USD,JPMorgan,2024-10-15,yahoo_finance
+JPM-20241016,1384.43,USD,JPMorgan,2024-10-16,yahoo_finance
+JPM-20241017,1408.35,USD,JPMorgan,2024-10-17,yahoo_finance
+JPM-20241018,1530.23,USD,JPMorgan,2024-10-18,yahoo_finance
+JPM-20241021,1269.62,USD,JPMorgan,2024-10-21,yahoo_finance
+JPM-20241022,2083.94,USD,JPMorgan,2024-10-22,yahoo_finance
+JPM-20241023,1339.24,USD,JPMorgan,2024-10-23,yahoo_finance
+JPM-20241024,1309.74,USD,JPMorgan,2024-10-24,yahoo_finance
+JPM-20241025,1373.44,USD,JPMorgan,2024-10-25,yahoo_finance
+JPM-20241028,1496.66,USD,JPMorgan,2024-10-28,yahoo_finance
+JPM-20241029,1422.55,USD,JPMorgan,2024-10-29,yahoo_finance
+JPM-20241030,1547.74,USD,JPMorgan,2024-10-30,yahoo_finance
+JPM-20241031,1685.32,USD,JPMorgan,2024-10-31,yahoo_finance
+JPM-20241101,1497.08,USD,JPMorgan,2024-11-01,yahoo_finance
+JPM-20241104,1754.28,USD,JPMorgan,2024-11-04,yahoo_finance
+JPM-20241105,1203.17,USD,JPMorgan,2024-11-05,yahoo_finance
+JPM-20241106,5748.09,USD,JPMorgan,2024-11-06,yahoo_finance
+JPM-20241107,3771.7,USD,JPMorgan,2024-11-07,yahoo_finance
+JPM-20241108,2184.05,USD,JPMorgan,2024-11-08,yahoo_finance
+JPM-20241111,2092.77,USD,JPMorgan,2024-11-11,yahoo_finance
+JPM-20241112,1594.16,USD,JPMorgan,2024-11-12,yahoo_finance
+JPM-20241113,2683.48,USD,JPMorgan,2024-11-13,yahoo_finance
+JPM-20241114,2386.31,USD,JPMorgan,2024-11-14,yahoo_finance
+JPM-20241115,2740.65,USD,JPMorgan,2024-11-15,yahoo_finance
+JPM-20241118,2151.13,USD,JPMorgan,2024-11-18,yahoo_finance
+JPM-20241119,1601.55,USD,JPMorgan,2024-11-19,yahoo_finance
+JPM-20241120,2105.38,USD,JPMorgan,2024-11-20,yahoo_finance
+JPM-20241121,2085.16,USD,JPMorgan,2024-11-21,yahoo_finance
+JPM-20241122,1927.92,USD,JPMorgan,2024-11-22,yahoo_finance
+JPM-20241125,2499.3,USD,JPMorgan,2024-11-25,yahoo_finance
+JPM-20241126,1506.11,USD,JPMorgan,2024-11-26,yahoo_finance
+JPM-20241127,1325.79,USD,JPMorgan,2024-11-27,yahoo_finance
+JPM-20241129,1330.87,USD,JPMorgan,2024-11-29,yahoo_finance
+JPM-20241202,2125.6,USD,JPMorgan,2024-12-02,yahoo_finance
+JPM-20241203,1580.89,USD,JPMorgan,2024-12-03,yahoo_finance
+JPM-20241204,1734.28,USD,JPMorgan,2024-12-04,yahoo_finance
+JPM-20241205,1564.87,USD,JPMorgan,2024-12-05,yahoo_finance
+JPM-20241206,1324.27,USD,JPMorgan,2024-12-06,yahoo_finance
+JPM-20241209,1673.4,USD,JPMorgan,2024-12-09,yahoo_finance
+JPM-20241210,2145.48,USD,JPMorgan,2024-12-10,yahoo_finance
+JPM-20241211,1862.31,USD,JPMorgan,2024-12-11,yahoo_finance
+JPM-20241212,1432.23,USD,JPMorgan,2024-12-12,yahoo_finance
+JPM-20241213,2418.59,USD,JPMorgan,2024-12-13,yahoo_finance
+JPM-20241216,2098.77,USD,JPMorgan,2024-12-16,yahoo_finance
+JPM-20241217,1868.83,USD,JPMorgan,2024-12-17,yahoo_finance
+JPM-20241218,2529.85,USD,JPMorgan,2024-12-18,yahoo_finance
+JPM-20241219,2664.13,USD,JPMorgan,2024-12-19,yahoo_finance
+JPM-20241220,7454.7,USD,JPMorgan,2024-12-20,yahoo_finance
+JPM-20241223,1991.12,USD,JPMorgan,2024-12-23,yahoo_finance
+JPM-20241224,876.41,USD,JPMorgan,2024-12-24,yahoo_finance
+JPM-20241226,1049.84,USD,JPMorgan,2024-12-26,yahoo_finance
+JPM-20241227,1340.37,USD,JPMorgan,2024-12-27,yahoo_finance
+JPM-20241230,1328.6,USD,JPMorgan,2024-12-30,yahoo_finance
+GS-20241001,726.84,USD,Goldman Sachs,2024-10-01,yahoo_finance
+GS-20241002,689.69,USD,Goldman Sachs,2024-10-02,yahoo_finance
+GS-20241003,608.58,USD,Goldman Sachs,2024-10-03,yahoo_finance
+GS-20241004,826.95,USD,Goldman Sachs,2024-10-04,yahoo_finance
+GS-20241007,562.96,USD,Goldman Sachs,2024-10-07,yahoo_finance
+GS-20241008,624.63,USD,Goldman Sachs,2024-10-08,yahoo_finance
+GS-20241009,831.09,USD,Goldman Sachs,2024-10-09,yahoo_finance
+GS-20241010,639.63,USD,Goldman Sachs,2024-10-10,yahoo_finance
+GS-20241011,1206.88,USD,Goldman Sachs,2024-10-11,yahoo_finance
+GS-20241014,1102.89,USD,Goldman Sachs,2024-10-14,yahoo_finance
+GS-20241015,2293.21,USD,Goldman Sachs,2024-10-15,yahoo_finance
+GS-20241016,1361.58,USD,Goldman Sachs,2024-10-16,yahoo_finance
+GS-20241017,1089.7,USD,Goldman Sachs,2024-10-17,yahoo_finance
+GS-20241018,912.16,USD,Goldman Sachs,2024-10-18,yahoo_finance
+GS-20241021,880.08,USD,Goldman Sachs,2024-10-21,yahoo_finance
+GS-20241022,798.42,USD,Goldman Sachs,2024-10-22,yahoo_finance
+GS-20241023,633.77,USD,Goldman Sachs,2024-10-23,yahoo_finance
+GS-20241024,1047.21,USD,Goldman Sachs,2024-10-24,yahoo_finance
+GS-20241025,812.12,USD,Goldman Sachs,2024-10-25,yahoo_finance
+GS-20241028,856.89,USD,Goldman Sachs,2024-10-28,yahoo_finance
+GS-20241029,651.8,USD,Goldman Sachs,2024-10-29,yahoo_finance
+GS-20241030,733.34,USD,Goldman Sachs,2024-10-30,yahoo_finance
+GS-20241031,1035.57,USD,Goldman Sachs,2024-10-31,yahoo_finance
+GS-20241101,818.68,USD,Goldman Sachs,2024-11-01,yahoo_finance
+GS-20241104,891.99,USD,Goldman Sachs,2024-11-04,yahoo_finance
+GS-20241105,1109.22,USD,Goldman Sachs,2024-11-05,yahoo_finance
+GS-20241106,4649.85,USD,Goldman Sachs,2024-11-06,yahoo_finance
+GS-20241107,2527.56,USD,Goldman Sachs,2024-11-07,yahoo_finance
+GS-20241108,1551.38,USD,Goldman Sachs,2024-11-08,yahoo_finance
+GS-20241111,1467.08,USD,Goldman Sachs,2024-11-11,yahoo_finance
+GS-20241112,1375.56,USD,Goldman Sachs,2024-11-12,yahoo_finance
+GS-20241113,1016.31,USD,Goldman Sachs,2024-11-13,yahoo_finance
+GS-20241114,953.84,USD,Goldman Sachs,2024-11-14,yahoo_finance
+GS-20241115,1155.98,USD,Goldman Sachs,2024-11-15,yahoo_finance
+GS-20241118,1054.59,USD,Goldman Sachs,2024-11-18,yahoo_finance
+GS-20241119,1250.56,USD,Goldman Sachs,2024-11-19,yahoo_finance
+GS-20241120,862.91,USD,Goldman Sachs,2024-11-20,yahoo_finance
+GS-20241121,1319.54,USD,Goldman Sachs,2024-11-21,yahoo_finance
+GS-20241122,1013.76,USD,Goldman Sachs,2024-11-22,yahoo_finance
+GS-20241125,1720.3,USD,Goldman Sachs,2024-11-25,yahoo_finance
+GS-20241126,1671.96,USD,Goldman Sachs,2024-11-26,yahoo_finance
+GS-20241127,836.62,USD,Goldman Sachs,2024-11-27,yahoo_finance
+GS-20241129,690.83,USD,Goldman Sachs,2024-11-29,yahoo_finance
+GS-20241202,1058.26,USD,Goldman Sachs,2024-12-02,yahoo_finance
+GS-20241203,1008.44,USD,Goldman Sachs,2024-12-03,yahoo_finance
+GS-20241204,943.96,USD,Goldman Sachs,2024-12-04,yahoo_finance
+GS-20241205,973.24,USD,Goldman Sachs,2024-12-05,yahoo_finance
+GS-20241206,821.79,USD,Goldman Sachs,2024-12-06,yahoo_finance
+GS-20241209,945.93,USD,Goldman Sachs,2024-12-09,yahoo_finance
+GS-20241210,1483.31,USD,Goldman Sachs,2024-12-10,yahoo_finance
+GS-20241211,1268.16,USD,Goldman Sachs,2024-12-11,yahoo_finance
+GS-20241212,702.7,USD,Goldman Sachs,2024-12-12,yahoo_finance
+GS-20241213,693.48,USD,Goldman Sachs,2024-12-13,yahoo_finance
+GS-20241216,979.31,USD,Goldman Sachs,2024-12-16,yahoo_finance
+GS-20241217,1296.45,USD,Goldman Sachs,2024-12-17,yahoo_finance
+GS-20241218,1754.96,USD,Goldman Sachs,2024-12-18,yahoo_finance
+GS-20241219,1486.97,USD,Goldman Sachs,2024-12-19,yahoo_finance
+GS-20241220,2492.21,USD,Goldman Sachs,2024-12-20,yahoo_finance
+GS-20241223,845.5,USD,Goldman Sachs,2024-12-23,yahoo_finance
+GS-20241224,518.94,USD,Goldman Sachs,2024-12-24,yahoo_finance
+GS-20241226,618.75,USD,Goldman Sachs,2024-12-26,yahoo_finance
+GS-20241227,834.69,USD,Goldman Sachs,2024-12-27,yahoo_finance
+GS-20241230,707.81,USD,Goldman Sachs,2024-12-30,yahoo_finance
+MS-20241001,542.06,USD,Morgan Stanley,2024-10-01,yahoo_finance
+MS-20241002,328.66,USD,Morgan Stanley,2024-10-02,yahoo_finance
+MS-20241003,457.96,USD,Morgan Stanley,2024-10-03,yahoo_finance
+MS-20241004,577.68,USD,Morgan Stanley,2024-10-04,yahoo_finance
+MS-20241007,456.27,USD,Morgan Stanley,2024-10-07,yahoo_finance
+MS-20241008,377.59,USD,Morgan Stanley,2024-10-08,yahoo_finance
+MS-20241009,462.81,USD,Morgan Stanley,2024-10-09,yahoo_finance
+MS-20241010,419.5,USD,Morgan Stanley,2024-10-10,yahoo_finance
+MS-20241011,614.41,USD,Morgan Stanley,2024-10-11,yahoo_finance
+MS-20241014,769.58,USD,Morgan Stanley,2024-10-14,yahoo_finance
+MS-20241015,956.22,USD,Morgan Stanley,2024-10-15,yahoo_finance
+MS-20241016,2448.36,USD,Morgan Stanley,2024-10-16,yahoo_finance
+MS-20241017,1067.01,USD,Morgan Stanley,2024-10-17,yahoo_finance
+MS-20241018,792.04,USD,Morgan Stanley,2024-10-18,yahoo_finance
+MS-20241021,843.43,USD,Morgan Stanley,2024-10-21,yahoo_finance
+MS-20241022,500.37,USD,Morgan Stanley,2024-10-22,yahoo_finance
+MS-20241023,639.32,USD,Morgan Stanley,2024-10-23,yahoo_finance
+MS-20241024,638.47,USD,Morgan Stanley,2024-10-24,yahoo_finance
+MS-20241025,811.42,USD,Morgan Stanley,2024-10-25,yahoo_finance
+MS-20241028,681.72,USD,Morgan Stanley,2024-10-28,yahoo_finance
+MS-20241029,526.45,USD,Morgan Stanley,2024-10-29,yahoo_finance
+MS-20241030,638.66,USD,Morgan Stanley,2024-10-30,yahoo_finance
+MS-20241031,601.22,USD,Morgan Stanley,2024-10-31,yahoo_finance
+MS-20241101,491.6,USD,Morgan Stanley,2024-11-01,yahoo_finance
+MS-20241104,487.96,USD,Morgan Stanley,2024-11-04,yahoo_finance
+MS-20241105,543.96,USD,Morgan Stanley,2024-11-05,yahoo_finance
+MS-20241106,2884.66,USD,Morgan Stanley,2024-11-06,yahoo_finance
+MS-20241107,961.55,USD,Morgan Stanley,2024-11-07,yahoo_finance
+MS-20241108,869.91,USD,Morgan Stanley,2024-11-08,yahoo_finance
+MS-20241111,881.54,USD,Morgan Stanley,2024-11-11,yahoo_finance
+MS-20241112,723.58,USD,Morgan Stanley,2024-11-12,yahoo_finance
+MS-20241113,783.72,USD,Morgan Stanley,2024-11-13,yahoo_finance
+MS-20241114,935.88,USD,Morgan Stanley,2024-11-14,yahoo_finance
+MS-20241115,939.37,USD,Morgan Stanley,2024-11-15,yahoo_finance
+MS-20241118,828.27,USD,Morgan Stanley,2024-11-18,yahoo_finance
+MS-20241119,921.89,USD,Morgan Stanley,2024-11-19,yahoo_finance
+MS-20241120,649.51,USD,Morgan Stanley,2024-11-20,yahoo_finance
+MS-20241121,720.58,USD,Morgan Stanley,2024-11-21,yahoo_finance
+MS-20241122,820.94,USD,Morgan Stanley,2024-11-22,yahoo_finance
+MS-20241125,1030.5,USD,Morgan Stanley,2024-11-25,yahoo_finance
+MS-20241126,1113.85,USD,Morgan Stanley,2024-11-26,yahoo_finance
+MS-20241127,695.4,USD,Morgan Stanley,2024-11-27,yahoo_finance
+MS-20241129,515.21,USD,Morgan Stanley,2024-11-29,yahoo_finance
+MS-20241202,694.99,USD,Morgan Stanley,2024-12-02,yahoo_finance
+MS-20241203,601.39,USD,Morgan Stanley,2024-12-03,yahoo_finance
+MS-20241204,775.98,USD,Morgan Stanley,2024-12-04,yahoo_finance
+MS-20241205,625.99,USD,Morgan Stanley,2024-12-05,yahoo_finance
+MS-20241206,626.93,USD,Morgan Stanley,2024-12-06,yahoo_finance
+MS-20241209,959.37,USD,Morgan Stanley,2024-12-09,yahoo_finance
+MS-20241210,799.29,USD,Morgan Stanley,2024-12-10,yahoo_finance
+MS-20241211,1084.76,USD,Morgan Stanley,2024-12-11,yahoo_finance
+MS-20241212,444.39,USD,Morgan Stanley,2024-12-12,yahoo_finance
+MS-20241213,746.77,USD,Morgan Stanley,2024-12-13,yahoo_finance
+MS-20241216,702.71,USD,Morgan Stanley,2024-12-16,yahoo_finance
+MS-20241217,877.81,USD,Morgan Stanley,2024-12-17,yahoo_finance
+MS-20241218,915.33,USD,Morgan Stanley,2024-12-18,yahoo_finance
+MS-20241219,1000.94,USD,Morgan Stanley,2024-12-19,yahoo_finance
+MS-20241220,1767.94,USD,Morgan Stanley,2024-12-20,yahoo_finance
+MS-20241223,607.64,USD,Morgan Stanley,2024-12-23,yahoo_finance
+MS-20241224,354.91,USD,Morgan Stanley,2024-12-24,yahoo_finance
+MS-20241226,371.26,USD,Morgan Stanley,2024-12-26,yahoo_finance
+MS-20241227,376.67,USD,Morgan Stanley,2024-12-27,yahoo_finance
+MS-20241230,319.2,USD,Morgan Stanley,2024-12-30,yahoo_finance
+BAC-20241001,996.59,USD,Bank of America,2024-10-01,yahoo_finance
+BAC-20241002,883.53,USD,Bank of America,2024-10-02,yahoo_finance
+BAC-20241003,987.45,USD,Bank of America,2024-10-03,yahoo_finance
+BAC-20241004,1326.18,USD,Bank of America,2024-10-04,yahoo_finance
+BAC-20241007,1049.62,USD,Bank of America,2024-10-07,yahoo_finance
+BAC-20241008,1004.3,USD,Bank of America,2024-10-08,yahoo_finance
+BAC-20241009,1065.12,USD,Bank of America,2024-10-09,yahoo_finance
+BAC-20241010,1011.44,USD,Bank of America,2024-10-10,yahoo_finance
+BAC-20241011,2054.01,USD,Bank of America,2024-10-11,yahoo_finance
+BAC-20241014,1138.17,USD,Bank of America,2024-10-14,yahoo_finance
+BAC-20241015,2504.37,USD,Bank of America,2024-10-15,yahoo_finance
+BAC-20241016,1755.48,USD,Bank of America,2024-10-16,yahoo_finance
+BAC-20241017,1305.53,USD,Bank of America,2024-10-17,yahoo_finance
+BAC-20241018,1251.33,USD,Bank of America,2024-10-18,yahoo_finance
+BAC-20241021,1073.17,USD,Bank of America,2024-10-21,yahoo_finance
+BAC-20241022,1516.93,USD,Bank of America,2024-10-22,yahoo_finance
+BAC-20241023,1169.1,USD,Bank of America,2024-10-23,yahoo_finance
+BAC-20241024,1170.34,USD,Bank of America,2024-10-24,yahoo_finance
+BAC-20241025,1112.04,USD,Bank of America,2024-10-25,yahoo_finance
+BAC-20241028,1010.34,USD,Bank of America,2024-10-28,yahoo_finance
+BAC-20241029,917.2,USD,Bank of America,2024-10-29,yahoo_finance
+BAC-20241030,1558.02,USD,Bank of America,2024-10-30,yahoo_finance
+BAC-20241031,1137.31,USD,Bank of America,2024-10-31,yahoo_finance
+BAC-20241101,1260.06,USD,Bank of America,2024-11-01,yahoo_finance
+BAC-20241104,1242.7,USD,Bank of America,2024-11-04,yahoo_finance
+BAC-20241105,1248.76,USD,Bank of America,2024-11-05,yahoo_finance
+BAC-20241106,4831.54,USD,Bank of America,2024-11-06,yahoo_finance
+BAC-20241107,2091.65,USD,Bank of America,2024-11-07,yahoo_finance
+BAC-20241108,1671.95,USD,Bank of America,2024-11-08,yahoo_finance
+BAC-20241111,1928.12,USD,Bank of America,2024-11-11,yahoo_finance
+BAC-20241112,1691.2,USD,Bank of America,2024-11-12,yahoo_finance
+BAC-20241113,1636.06,USD,Bank of America,2024-11-13,yahoo_finance
+BAC-20241114,1585.19,USD,Bank of America,2024-11-14,yahoo_finance
+BAC-20241115,1829.43,USD,Bank of America,2024-11-15,yahoo_finance
+BAC-20241118,1461.21,USD,Bank of America,2024-11-18,yahoo_finance
+BAC-20241119,1279.9,USD,Bank of America,2024-11-19,yahoo_finance
+BAC-20241120,1247.4,USD,Bank of America,2024-11-20,yahoo_finance
+BAC-20241121,2035.76,USD,Bank of America,2024-11-21,yahoo_finance
+BAC-20241122,1725.98,USD,Bank of America,2024-11-22,yahoo_finance
+BAC-20241125,1961.14,USD,Bank of America,2024-11-25,yahoo_finance
+BAC-20241126,1398.42,USD,Bank of America,2024-11-26,yahoo_finance
+BAC-20241127,1074.75,USD,Bank of America,2024-11-27,yahoo_finance
+BAC-20241129,1068.15,USD,Bank of America,2024-11-29,yahoo_finance
+BAC-20241202,1631.77,USD,Bank of America,2024-12-02,yahoo_finance
+BAC-20241203,1725.15,USD,Bank of America,2024-12-03,yahoo_finance
+BAC-20241204,1117.78,USD,Bank of America,2024-12-04,yahoo_finance
+BAC-20241205,1434.17,USD,Bank of America,2024-12-05,yahoo_finance
+BAC-20241206,1314.51,USD,Bank of America,2024-12-06,yahoo_finance
+BAC-20241209,1546.52,USD,Bank of America,2024-12-09,yahoo_finance
+BAC-20241210,1585.81,USD,Bank of America,2024-12-10,yahoo_finance
+BAC-20241211,1647.62,USD,Bank of America,2024-12-11,yahoo_finance
+BAC-20241212,1075.58,USD,Bank of America,2024-12-12,yahoo_finance
+BAC-20241213,1460.38,USD,Bank of America,2024-12-13,yahoo_finance
+BAC-20241216,1207.75,USD,Bank of America,2024-12-16,yahoo_finance
+BAC-20241217,1447.22,USD,Bank of America,2024-12-17,yahoo_finance
+BAC-20241218,1765.96,USD,Bank of America,2024-12-18,yahoo_finance
+BAC-20241219,1626.67,USD,Bank of America,2024-12-19,yahoo_finance
+BAC-20241220,3186.17,USD,Bank of America,2024-12-20,yahoo_finance
+BAC-20241223,1508.92,USD,Bank of America,2024-12-23,yahoo_finance
+BAC-20241224,519.93,USD,Bank of America,2024-12-24,yahoo_finance
+BAC-20241226,696.1,USD,Bank of America,2024-12-26,yahoo_finance
+BAC-20241227,774.48,USD,Bank of America,2024-12-27,yahoo_finance
+BAC-20241230,687.48,USD,Bank of America,2024-12-30,yahoo_finance
+MC.PA-20241001,380.76,EUR,LVMH,2024-10-01,yahoo_finance
+MC.PA-20241002,257.68,EUR,LVMH,2024-10-02,yahoo_finance
+MC.PA-20241003,213.09,EUR,LVMH,2024-10-03,yahoo_finance
+MC.PA-20241004,295.17,EUR,LVMH,2024-10-04,yahoo_finance
+MC.PA-20241007,355.52,EUR,LVMH,2024-10-07,yahoo_finance
+MC.PA-20241008,314.13,EUR,LVMH,2024-10-08,yahoo_finance
+MC.PA-20241009,225.39,EUR,LVMH,2024-10-09,yahoo_finance
+MC.PA-20241010,233.3,EUR,LVMH,2024-10-10,yahoo_finance
+MC.PA-20241011,214.5,EUR,LVMH,2024-10-11,yahoo_finance
+MC.PA-20241014,346.09,EUR,LVMH,2024-10-14,yahoo_finance
+MC.PA-20241015,380.35,EUR,LVMH,2024-10-15,yahoo_finance
+MC.PA-20241016,654.18,EUR,LVMH,2024-10-16,yahoo_finance
+MC.PA-20241017,260.37,EUR,LVMH,2024-10-17,yahoo_finance
+MC.PA-20241018,352.06,EUR,LVMH,2024-10-18,yahoo_finance
+MC.PA-20241021,200.06,EUR,LVMH,2024-10-21,yahoo_finance
+MC.PA-20241022,186.2,EUR,LVMH,2024-10-22,yahoo_finance
+MC.PA-20241023,162.37,EUR,LVMH,2024-10-23,yahoo_finance
+MC.PA-20241024,309.44,EUR,LVMH,2024-10-24,yahoo_finance
+MC.PA-20241025,191.07,EUR,LVMH,2024-10-25,yahoo_finance
+MC.PA-20241028,204.21,EUR,LVMH,2024-10-28,yahoo_finance
+MC.PA-20241029,217.23,EUR,LVMH,2024-10-29,yahoo_finance
+MC.PA-20241030,315.77,EUR,LVMH,2024-10-30,yahoo_finance
+MC.PA-20241031,304.96,EUR,LVMH,2024-10-31,yahoo_finance
+MC.PA-20241101,153.17,EUR,LVMH,2024-11-01,yahoo_finance
+MC.PA-20241104,138.47,EUR,LVMH,2024-11-04,yahoo_finance
+MC.PA-20241105,178.27,EUR,LVMH,2024-11-05,yahoo_finance
+MC.PA-20241106,291.7,EUR,LVMH,2024-11-06,yahoo_finance
+MC.PA-20241107,271.78,EUR,LVMH,2024-11-07,yahoo_finance
+MC.PA-20241108,367.8,EUR,LVMH,2024-11-08,yahoo_finance
+MC.PA-20241111,220.76,EUR,LVMH,2024-11-11,yahoo_finance
+MC.PA-20241112,524.56,EUR,LVMH,2024-11-12,yahoo_finance
+MC.PA-20241113,300.56,EUR,LVMH,2024-11-13,yahoo_finance
+MC.PA-20241114,328.3,EUR,LVMH,2024-11-14,yahoo_finance
+MC.PA-20241115,206.76,EUR,LVMH,2024-11-15,yahoo_finance
+MC.PA-20241118,161.47,EUR,LVMH,2024-11-18,yahoo_finance
+MC.PA-20241119,275.54,EUR,LVMH,2024-11-19,yahoo_finance
+MC.PA-20241120,164.96,EUR,LVMH,2024-11-20,yahoo_finance
+MC.PA-20241121,197.7,EUR,LVMH,2024-11-21,yahoo_finance
+MC.PA-20241122,228.78,EUR,LVMH,2024-11-22,yahoo_finance
+MC.PA-20241125,348.54,EUR,LVMH,2024-11-25,yahoo_finance
+MC.PA-20241126,215.38,EUR,LVMH,2024-11-26,yahoo_finance
+MC.PA-20241127,217.19,EUR,LVMH,2024-11-27,yahoo_finance
+MC.PA-20241128,145.28,EUR,LVMH,2024-11-28,yahoo_finance
+MC.PA-20241129,248.19,EUR,LVMH,2024-11-29,yahoo_finance
+MC.PA-20241202,359.73,EUR,LVMH,2024-12-02,yahoo_finance
+MC.PA-20241203,289.81,EUR,LVMH,2024-12-03,yahoo_finance
+MC.PA-20241204,260.07,EUR,LVMH,2024-12-04,yahoo_finance
+MC.PA-20241205,239.24,EUR,LVMH,2024-12-05,yahoo_finance
+MC.PA-20241206,329.7,EUR,LVMH,2024-12-06,yahoo_finance
+MC.PA-20241209,468.07,EUR,LVMH,2024-12-09,yahoo_finance
+MC.PA-20241210,294.18,EUR,LVMH,2024-12-10,yahoo_finance
+MC.PA-20241211,270.62,EUR,LVMH,2024-12-11,yahoo_finance
+MC.PA-20241212,291.34,EUR,LVMH,2024-12-12,yahoo_finance
+MC.PA-20241213,259.91,EUR,LVMH,2024-12-13,yahoo_finance
+MC.PA-20241216,244.53,EUR,LVMH,2024-12-16,yahoo_finance
+MC.PA-20241217,250.49,EUR,LVMH,2024-12-17,yahoo_finance
+MC.PA-20241218,269.95,EUR,LVMH,2024-12-18,yahoo_finance
+MC.PA-20241219,280.94,EUR,LVMH,2024-12-19,yahoo_finance
+MC.PA-20241220,461.55,EUR,LVMH,2024-12-20,yahoo_finance
+MC.PA-20241223,159.75,EUR,LVMH,2024-12-23,yahoo_finance
+MC.PA-20241224,46.26,EUR,LVMH,2024-12-24,yahoo_finance
+MC.PA-20241227,155.46,EUR,LVMH,2024-12-27,yahoo_finance
+MC.PA-20241230,176.7,EUR,LVMH,2024-12-30,yahoo_finance
+AI.PA-20241001,111.18,EUR,Air Liquide,2024-10-01,yahoo_finance
+AI.PA-20241002,80.94,EUR,Air Liquide,2024-10-02,yahoo_finance
+AI.PA-20241003,86.23,EUR,Air Liquide,2024-10-03,yahoo_finance
+AI.PA-20241004,106.08,EUR,Air Liquide,2024-10-04,yahoo_finance
+AI.PA-20241007,97.15,EUR,Air Liquide,2024-10-07,yahoo_finance
+AI.PA-20241008,100.27,EUR,Air Liquide,2024-10-08,yahoo_finance
+AI.PA-20241009,55.36,EUR,Air Liquide,2024-10-09,yahoo_finance
+AI.PA-20241010,68.89,EUR,Air Liquide,2024-10-10,yahoo_finance
+AI.PA-20241011,50.53,EUR,Air Liquide,2024-10-11,yahoo_finance
+AI.PA-20241014,60.62,EUR,Air Liquide,2024-10-14,yahoo_finance
+AI.PA-20241015,152.41,EUR,Air Liquide,2024-10-15,yahoo_finance
+AI.PA-20241016,84.17,EUR,Air Liquide,2024-10-16,yahoo_finance
+AI.PA-20241017,75.54,EUR,Air Liquide,2024-10-17,yahoo_finance
+AI.PA-20241018,90.64,EUR,Air Liquide,2024-10-18,yahoo_finance
+AI.PA-20241021,86.41,EUR,Air Liquide,2024-10-21,yahoo_finance
+AI.PA-20241022,78.85,EUR,Air Liquide,2024-10-22,yahoo_finance
+AI.PA-20241023,83.39,EUR,Air Liquide,2024-10-23,yahoo_finance
+AI.PA-20241024,78.89,EUR,Air Liquide,2024-10-24,yahoo_finance
+AI.PA-20241025,96.99,EUR,Air Liquide,2024-10-25,yahoo_finance
+AI.PA-20241028,90.01,EUR,Air Liquide,2024-10-28,yahoo_finance
+AI.PA-20241029,93.58,EUR,Air Liquide,2024-10-29,yahoo_finance
+AI.PA-20241030,124.52,EUR,Air Liquide,2024-10-30,yahoo_finance
+AI.PA-20241031,184.6,EUR,Air Liquide,2024-10-31,yahoo_finance
+AI.PA-20241101,70.01,EUR,Air Liquide,2024-11-01,yahoo_finance
+AI.PA-20241104,57.23,EUR,Air Liquide,2024-11-04,yahoo_finance
+AI.PA-20241105,78.95,EUR,Air Liquide,2024-11-05,yahoo_finance
+AI.PA-20241106,144.83,EUR,Air Liquide,2024-11-06,yahoo_finance
+AI.PA-20241107,130.35,EUR,Air Liquide,2024-11-07,yahoo_finance
+AI.PA-20241108,113.04,EUR,Air Liquide,2024-11-08,yahoo_finance
+AI.PA-20241111,98.97,EUR,Air Liquide,2024-11-11,yahoo_finance
+AI.PA-20241112,150.14,EUR,Air Liquide,2024-11-12,yahoo_finance
+AI.PA-20241113,118.98,EUR,Air Liquide,2024-11-13,yahoo_finance
+AI.PA-20241114,133.07,EUR,Air Liquide,2024-11-14,yahoo_finance
+AI.PA-20241115,106.76,EUR,Air Liquide,2024-11-15,yahoo_finance
+AI.PA-20241118,85.38,EUR,Air Liquide,2024-11-18,yahoo_finance
+AI.PA-20241119,114.31,EUR,Air Liquide,2024-11-19,yahoo_finance
+AI.PA-20241120,110.53,EUR,Air Liquide,2024-11-20,yahoo_finance
+AI.PA-20241121,103.6,EUR,Air Liquide,2024-11-21,yahoo_finance
+AI.PA-20241122,103.48,EUR,Air Liquide,2024-11-22,yahoo_finance
+AI.PA-20241125,150.99,EUR,Air Liquide,2024-11-25,yahoo_finance
+AI.PA-20241126,102.26,EUR,Air Liquide,2024-11-26,yahoo_finance
+AI.PA-20241127,102.97,EUR,Air Liquide,2024-11-27,yahoo_finance
+AI.PA-20241128,74.33,EUR,Air Liquide,2024-11-28,yahoo_finance
+AI.PA-20241129,102.66,EUR,Air Liquide,2024-11-29,yahoo_finance
+AI.PA-20241202,147.91,EUR,Air Liquide,2024-12-02,yahoo_finance
+AI.PA-20241203,113.39,EUR,Air Liquide,2024-12-03,yahoo_finance
+AI.PA-20241204,115.11,EUR,Air Liquide,2024-12-04,yahoo_finance
+AI.PA-20241205,106.52,EUR,Air Liquide,2024-12-05,yahoo_finance
+AI.PA-20241206,102.8,EUR,Air Liquide,2024-12-06,yahoo_finance
+AI.PA-20241209,99.63,EUR,Air Liquide,2024-12-09,yahoo_finance
+AI.PA-20241210,118.03,EUR,Air Liquide,2024-12-10,yahoo_finance
+AI.PA-20241211,100.57,EUR,Air Liquide,2024-12-11,yahoo_finance
+AI.PA-20241212,88.51,EUR,Air Liquide,2024-12-12,yahoo_finance
+AI.PA-20241213,82.67,EUR,Air Liquide,2024-12-13,yahoo_finance
+AI.PA-20241216,101.54,EUR,Air Liquide,2024-12-16,yahoo_finance
+AI.PA-20241217,118.42,EUR,Air Liquide,2024-12-17,yahoo_finance
+AI.PA-20241218,127.98,EUR,Air Liquide,2024-12-18,yahoo_finance
+AI.PA-20241219,157.54,EUR,Air Liquide,2024-12-19,yahoo_finance
+AI.PA-20241220,267.34,EUR,Air Liquide,2024-12-20,yahoo_finance
+AI.PA-20241223,88.11,EUR,Air Liquide,2024-12-23,yahoo_finance
+AI.PA-20241224,26.29,EUR,Air Liquide,2024-12-24,yahoo_finance
+AI.PA-20241227,82.07,EUR,Air Liquide,2024-12-27,yahoo_finance
+AI.PA-20241230,59.53,EUR,Air Liquide,2024-12-30,yahoo_finance
+TTE.PA-20241001,270.05,EUR,TotalEnergies,2024-10-01,yahoo_finance
+TTE.PA-20241002,288.06,EUR,TotalEnergies,2024-10-02,yahoo_finance
+TTE.PA-20241003,223.1,EUR,TotalEnergies,2024-10-03,yahoo_finance
+TTE.PA-20241004,260.81,EUR,TotalEnergies,2024-10-04,yahoo_finance
+TTE.PA-20241007,215.41,EUR,TotalEnergies,2024-10-07,yahoo_finance
+TTE.PA-20241008,178.72,EUR,TotalEnergies,2024-10-08,yahoo_finance
+TTE.PA-20241009,146.94,EUR,TotalEnergies,2024-10-09,yahoo_finance
+TTE.PA-20241010,174.66,EUR,TotalEnergies,2024-10-10,yahoo_finance
+TTE.PA-20241011,144.08,EUR,TotalEnergies,2024-10-11,yahoo_finance
+TTE.PA-20241014,130.65,EUR,TotalEnergies,2024-10-14,yahoo_finance
+TTE.PA-20241015,406.99,EUR,TotalEnergies,2024-10-15,yahoo_finance
+TTE.PA-20241016,234.19,EUR,TotalEnergies,2024-10-16,yahoo_finance
+TTE.PA-20241017,170.12,EUR,TotalEnergies,2024-10-17,yahoo_finance
+TTE.PA-20241018,173.04,EUR,TotalEnergies,2024-10-18,yahoo_finance
+TTE.PA-20241021,154.96,EUR,TotalEnergies,2024-10-21,yahoo_finance
+TTE.PA-20241022,143.39,EUR,TotalEnergies,2024-10-22,yahoo_finance
+TTE.PA-20241023,164.26,EUR,TotalEnergies,2024-10-23,yahoo_finance
+TTE.PA-20241024,147.5,EUR,TotalEnergies,2024-10-24,yahoo_finance
+TTE.PA-20241025,136.07,EUR,TotalEnergies,2024-10-25,yahoo_finance
+TTE.PA-20241028,209.32,EUR,TotalEnergies,2024-10-28,yahoo_finance
+TTE.PA-20241029,177.49,EUR,TotalEnergies,2024-10-29,yahoo_finance
+TTE.PA-20241030,193.2,EUR,TotalEnergies,2024-10-30,yahoo_finance
+TTE.PA-20241031,322.73,EUR,TotalEnergies,2024-10-31,yahoo_finance
+TTE.PA-20241101,198.97,EUR,TotalEnergies,2024-11-01,yahoo_finance
+TTE.PA-20241104,146.84,EUR,TotalEnergies,2024-11-04,yahoo_finance
+TTE.PA-20241105,151.61,EUR,TotalEnergies,2024-11-05,yahoo_finance
+TTE.PA-20241106,289.77,EUR,TotalEnergies,2024-11-06,yahoo_finance
+TTE.PA-20241107,200.58,EUR,TotalEnergies,2024-11-07,yahoo_finance
+TTE.PA-20241108,173.49,EUR,TotalEnergies,2024-11-08,yahoo_finance
+TTE.PA-20241111,192.4,EUR,TotalEnergies,2024-11-11,yahoo_finance
+TTE.PA-20241112,260.88,EUR,TotalEnergies,2024-11-12,yahoo_finance
+TTE.PA-20241113,213.66,EUR,TotalEnergies,2024-11-13,yahoo_finance
+TTE.PA-20241114,260.02,EUR,TotalEnergies,2024-11-14,yahoo_finance
+TTE.PA-20241115,204.46,EUR,TotalEnergies,2024-11-15,yahoo_finance
+TTE.PA-20241118,152.9,EUR,TotalEnergies,2024-11-18,yahoo_finance
+TTE.PA-20241119,206.25,EUR,TotalEnergies,2024-11-19,yahoo_finance
+TTE.PA-20241120,162.26,EUR,TotalEnergies,2024-11-20,yahoo_finance
+TTE.PA-20241121,164.88,EUR,TotalEnergies,2024-11-21,yahoo_finance
+TTE.PA-20241122,246.19,EUR,TotalEnergies,2024-11-22,yahoo_finance
+TTE.PA-20241125,385.7,EUR,TotalEnergies,2024-11-25,yahoo_finance
+TTE.PA-20241126,239.71,EUR,TotalEnergies,2024-11-26,yahoo_finance
+TTE.PA-20241127,261.24,EUR,TotalEnergies,2024-11-27,yahoo_finance
+TTE.PA-20241128,163.09,EUR,TotalEnergies,2024-11-28,yahoo_finance
+TTE.PA-20241129,229.44,EUR,TotalEnergies,2024-11-29,yahoo_finance
+TTE.PA-20241202,296.16,EUR,TotalEnergies,2024-12-02,yahoo_finance
+TTE.PA-20241203,272.62,EUR,TotalEnergies,2024-12-03,yahoo_finance
+TTE.PA-20241204,270.77,EUR,TotalEnergies,2024-12-04,yahoo_finance
+TTE.PA-20241205,273.95,EUR,TotalEnergies,2024-12-05,yahoo_finance
+TTE.PA-20241206,230.63,EUR,TotalEnergies,2024-12-06,yahoo_finance
+TTE.PA-20241209,248.21,EUR,TotalEnergies,2024-12-09,yahoo_finance
+TTE.PA-20241210,265.71,EUR,TotalEnergies,2024-12-10,yahoo_finance
+TTE.PA-20241211,292.72,EUR,TotalEnergies,2024-12-11,yahoo_finance
+TTE.PA-20241212,233.6,EUR,TotalEnergies,2024-12-12,yahoo_finance
+TTE.PA-20241213,209.28,EUR,TotalEnergies,2024-12-13,yahoo_finance
+TTE.PA-20241216,210.73,EUR,TotalEnergies,2024-12-16,yahoo_finance
+TTE.PA-20241217,274.8,EUR,TotalEnergies,2024-12-17,yahoo_finance
+TTE.PA-20241218,188.42,EUR,TotalEnergies,2024-12-18,yahoo_finance
+TTE.PA-20241219,231.57,EUR,TotalEnergies,2024-12-19,yahoo_finance
+TTE.PA-20241220,506.71,EUR,TotalEnergies,2024-12-20,yahoo_finance
+TTE.PA-20241223,134.21,EUR,TotalEnergies,2024-12-23,yahoo_finance
+TTE.PA-20241224,55.13,EUR,TotalEnergies,2024-12-24,yahoo_finance
+TTE.PA-20241227,169.08,EUR,TotalEnergies,2024-12-27,yahoo_finance
+TTE.PA-20241230,152.84,EUR,TotalEnergies,2024-12-30,yahoo_finance
+SAN.PA-20241001,127.26,EUR,Sanofi,2024-10-01,yahoo_finance
+SAN.PA-20241002,125.08,EUR,Sanofi,2024-10-02,yahoo_finance
+SAN.PA-20241003,117.14,EUR,Sanofi,2024-10-03,yahoo_finance
+SAN.PA-20241004,153.12,EUR,Sanofi,2024-10-04,yahoo_finance
+SAN.PA-20241007,142.21,EUR,Sanofi,2024-10-07,yahoo_finance
+SAN.PA-20241008,87.49,EUR,Sanofi,2024-10-08,yahoo_finance
+SAN.PA-20241009,105.45,EUR,Sanofi,2024-10-09,yahoo_finance
+SAN.PA-20241010,103.93,EUR,Sanofi,2024-10-10,yahoo_finance
+SAN.PA-20241011,101.38,EUR,Sanofi,2024-10-11,yahoo_finance
+SAN.PA-20241014,97.3,EUR,Sanofi,2024-10-14,yahoo_finance
+SAN.PA-20241015,221.8,EUR,Sanofi,2024-10-15,yahoo_finance
+SAN.PA-20241016,151.07,EUR,Sanofi,2024-10-16,yahoo_finance
+SAN.PA-20241017,113.83,EUR,Sanofi,2024-10-17,yahoo_finance
+SAN.PA-20241018,114.76,EUR,Sanofi,2024-10-18,yahoo_finance
+SAN.PA-20241021,101.36,EUR,Sanofi,2024-10-21,yahoo_finance
+SAN.PA-20241022,133.24,EUR,Sanofi,2024-10-22,yahoo_finance
+SAN.PA-20241023,99.61,EUR,Sanofi,2024-10-23,yahoo_finance
+SAN.PA-20241024,188.14,EUR,Sanofi,2024-10-24,yahoo_finance
+SAN.PA-20241025,166.78,EUR,Sanofi,2024-10-25,yahoo_finance
+SAN.PA-20241028,146.76,EUR,Sanofi,2024-10-28,yahoo_finance
+SAN.PA-20241029,122.27,EUR,Sanofi,2024-10-29,yahoo_finance
+SAN.PA-20241030,111.59,EUR,Sanofi,2024-10-30,yahoo_finance
+SAN.PA-20241031,252.09,EUR,Sanofi,2024-10-31,yahoo_finance
+SAN.PA-20241101,103.5,EUR,Sanofi,2024-11-01,yahoo_finance
+SAN.PA-20241104,81.04,EUR,Sanofi,2024-11-04,yahoo_finance
+SAN.PA-20241105,125.16,EUR,Sanofi,2024-11-05,yahoo_finance
+SAN.PA-20241106,190.99,EUR,Sanofi,2024-11-06,yahoo_finance
+SAN.PA-20241107,140.02,EUR,Sanofi,2024-11-07,yahoo_finance
+SAN.PA-20241108,129.68,EUR,Sanofi,2024-11-08,yahoo_finance
+SAN.PA-20241111,110.79,EUR,Sanofi,2024-11-11,yahoo_finance
+SAN.PA-20241112,176.13,EUR,Sanofi,2024-11-12,yahoo_finance
+SAN.PA-20241113,125.6,EUR,Sanofi,2024-11-13,yahoo_finance
+SAN.PA-20241114,161.8,EUR,Sanofi,2024-11-14,yahoo_finance
+SAN.PA-20241115,219.85,EUR,Sanofi,2024-11-15,yahoo_finance
+SAN.PA-20241118,137.34,EUR,Sanofi,2024-11-18,yahoo_finance
+SAN.PA-20241119,156.05,EUR,Sanofi,2024-11-19,yahoo_finance
+SAN.PA-20241120,123.01,EUR,Sanofi,2024-11-20,yahoo_finance
+SAN.PA-20241121,115.99,EUR,Sanofi,2024-11-21,yahoo_finance
+SAN.PA-20241122,148.75,EUR,Sanofi,2024-11-22,yahoo_finance
+SAN.PA-20241125,198.07,EUR,Sanofi,2024-11-25,yahoo_finance
+SAN.PA-20241126,125.79,EUR,Sanofi,2024-11-26,yahoo_finance
+SAN.PA-20241127,87.43,EUR,Sanofi,2024-11-27,yahoo_finance
+SAN.PA-20241128,64.87,EUR,Sanofi,2024-11-28,yahoo_finance
+SAN.PA-20241129,132.59,EUR,Sanofi,2024-11-29,yahoo_finance
+SAN.PA-20241202,122.95,EUR,Sanofi,2024-12-02,yahoo_finance
+SAN.PA-20241203,121.03,EUR,Sanofi,2024-12-03,yahoo_finance
+SAN.PA-20241204,94.79,EUR,Sanofi,2024-12-04,yahoo_finance
+SAN.PA-20241205,106.95,EUR,Sanofi,2024-12-05,yahoo_finance
+SAN.PA-20241206,125.34,EUR,Sanofi,2024-12-06,yahoo_finance
+SAN.PA-20241209,109.95,EUR,Sanofi,2024-12-09,yahoo_finance
+SAN.PA-20241210,127.88,EUR,Sanofi,2024-12-10,yahoo_finance
+SAN.PA-20241211,108.97,EUR,Sanofi,2024-12-11,yahoo_finance
+SAN.PA-20241212,135.21,EUR,Sanofi,2024-12-12,yahoo_finance
+SAN.PA-20241213,187.37,EUR,Sanofi,2024-12-13,yahoo_finance
+SAN.PA-20241216,153.45,EUR,Sanofi,2024-12-16,yahoo_finance
+SAN.PA-20241217,297.8,EUR,Sanofi,2024-12-17,yahoo_finance
+SAN.PA-20241218,226.26,EUR,Sanofi,2024-12-18,yahoo_finance
+SAN.PA-20241219,163.07,EUR,Sanofi,2024-12-19,yahoo_finance
+SAN.PA-20241220,385.77,EUR,Sanofi,2024-12-20,yahoo_finance
+SAN.PA-20241223,92.07,EUR,Sanofi,2024-12-23,yahoo_finance
+SAN.PA-20241224,37.49,EUR,Sanofi,2024-12-24,yahoo_finance
+SAN.PA-20241227,101.54,EUR,Sanofi,2024-12-27,yahoo_finance
+SAN.PA-20241230,91.77,EUR,Sanofi,2024-12-30,yahoo_finance
+AIR.PA-20241001,176.02,EUR,Airbus,2024-10-01,yahoo_finance
+AIR.PA-20241002,227.58,EUR,Airbus,2024-10-02,yahoo_finance
+AIR.PA-20241003,211.46,EUR,Airbus,2024-10-03,yahoo_finance
+AIR.PA-20241004,185.02,EUR,Airbus,2024-10-04,yahoo_finance
+AIR.PA-20241007,105.19,EUR,Airbus,2024-10-07,yahoo_finance
+AIR.PA-20241008,135.73,EUR,Airbus,2024-10-08,yahoo_finance
+AIR.PA-20241009,160.08,EUR,Airbus,2024-10-09,yahoo_finance
+AIR.PA-20241010,109.65,EUR,Airbus,2024-10-10,yahoo_finance
+AIR.PA-20241011,303.09,EUR,Airbus,2024-10-11,yahoo_finance
+AIR.PA-20241014,130.08,EUR,Airbus,2024-10-14,yahoo_finance
+AIR.PA-20241015,244.57,EUR,Airbus,2024-10-15,yahoo_finance
+AIR.PA-20241016,178.59,EUR,Airbus,2024-10-16,yahoo_finance
+AIR.PA-20241017,227.81,EUR,Airbus,2024-10-17,yahoo_finance
+AIR.PA-20241018,182.41,EUR,Airbus,2024-10-18,yahoo_finance
+AIR.PA-20241021,120.16,EUR,Airbus,2024-10-21,yahoo_finance
+AIR.PA-20241022,216.71,EUR,Airbus,2024-10-22,yahoo_finance
+AIR.PA-20241023,129.22,EUR,Airbus,2024-10-23,yahoo_finance
+AIR.PA-20241024,118.04,EUR,Airbus,2024-10-24,yahoo_finance
+AIR.PA-20241025,96.52,EUR,Airbus,2024-10-25,yahoo_finance
+AIR.PA-20241028,130.85,EUR,Airbus,2024-10-28,yahoo_finance
+AIR.PA-20241029,150.96,EUR,Airbus,2024-10-29,yahoo_finance
+AIR.PA-20241030,135.99,EUR,Airbus,2024-10-30,yahoo_finance
+AIR.PA-20241031,268.55,EUR,Airbus,2024-10-31,yahoo_finance
+AIR.PA-20241101,143.98,EUR,Airbus,2024-11-01,yahoo_finance
+AIR.PA-20241104,101.43,EUR,Airbus,2024-11-04,yahoo_finance
+AIR.PA-20241105,111.34,EUR,Airbus,2024-11-05,yahoo_finance
+AIR.PA-20241106,186.43,EUR,Airbus,2024-11-06,yahoo_finance
+AIR.PA-20241107,151.37,EUR,Airbus,2024-11-07,yahoo_finance
+AIR.PA-20241108,210.64,EUR,Airbus,2024-11-08,yahoo_finance
+AIR.PA-20241111,141.61,EUR,Airbus,2024-11-11,yahoo_finance
+AIR.PA-20241112,195.32,EUR,Airbus,2024-11-12,yahoo_finance
+AIR.PA-20241113,183.68,EUR,Airbus,2024-11-13,yahoo_finance
+AIR.PA-20241114,143.01,EUR,Airbus,2024-11-14,yahoo_finance
+AIR.PA-20241115,153.16,EUR,Airbus,2024-11-15,yahoo_finance
+AIR.PA-20241118,105.8,EUR,Airbus,2024-11-18,yahoo_finance
+AIR.PA-20241119,125.84,EUR,Airbus,2024-11-19,yahoo_finance
+AIR.PA-20241120,121.69,EUR,Airbus,2024-11-20,yahoo_finance
+AIR.PA-20241121,140.72,EUR,Airbus,2024-11-21,yahoo_finance
+AIR.PA-20241122,113.38,EUR,Airbus,2024-11-22,yahoo_finance
+AIR.PA-20241125,209.11,EUR,Airbus,2024-11-25,yahoo_finance
+AIR.PA-20241126,132.2,EUR,Airbus,2024-11-26,yahoo_finance
+AIR.PA-20241127,221.28,EUR,Airbus,2024-11-27,yahoo_finance
+AIR.PA-20241128,182.87,EUR,Airbus,2024-11-28,yahoo_finance
+AIR.PA-20241129,234.71,EUR,Airbus,2024-11-29,yahoo_finance
+AIR.PA-20241202,260.03,EUR,Airbus,2024-12-02,yahoo_finance
+AIR.PA-20241203,191.76,EUR,Airbus,2024-12-03,yahoo_finance
+AIR.PA-20241204,201.08,EUR,Airbus,2024-12-04,yahoo_finance
+AIR.PA-20241205,160.8,EUR,Airbus,2024-12-05,yahoo_finance
+AIR.PA-20241206,183.58,EUR,Airbus,2024-12-06,yahoo_finance
+AIR.PA-20241209,164.47,EUR,Airbus,2024-12-09,yahoo_finance
+AIR.PA-20241210,211.77,EUR,Airbus,2024-12-10,yahoo_finance
+AIR.PA-20241211,139.79,EUR,Airbus,2024-12-11,yahoo_finance
+AIR.PA-20241212,165.37,EUR,Airbus,2024-12-12,yahoo_finance
+AIR.PA-20241213,213.59,EUR,Airbus,2024-12-13,yahoo_finance
+AIR.PA-20241216,190.14,EUR,Airbus,2024-12-16,yahoo_finance
+AIR.PA-20241217,231.33,EUR,Airbus,2024-12-17,yahoo_finance
+AIR.PA-20241218,153.34,EUR,Airbus,2024-12-18,yahoo_finance
+AIR.PA-20241219,208.71,EUR,Airbus,2024-12-19,yahoo_finance
+AIR.PA-20241220,334.34,EUR,Airbus,2024-12-20,yahoo_finance
+AIR.PA-20241223,143.1,EUR,Airbus,2024-12-23,yahoo_finance
+AIR.PA-20241224,27.68,EUR,Airbus,2024-12-24,yahoo_finance
+AIR.PA-20241227,115.35,EUR,Airbus,2024-12-27,yahoo_finance
+AIR.PA-20241230,111.73,EUR,Airbus,2024-12-30,yahoo_finance
+BNP.PA-20241001,167.55,EUR,BNP Paribas,2024-10-01,yahoo_finance
+BNP.PA-20241002,102.83,EUR,BNP Paribas,2024-10-02,yahoo_finance
+BNP.PA-20241003,148.61,EUR,BNP Paribas,2024-10-03,yahoo_finance
+BNP.PA-20241004,174.57,EUR,BNP Paribas,2024-10-04,yahoo_finance
+BNP.PA-20241007,118.95,EUR,BNP Paribas,2024-10-07,yahoo_finance
+BNP.PA-20241008,95.48,EUR,BNP Paribas,2024-10-08,yahoo_finance
+BNP.PA-20241009,109.11,EUR,BNP Paribas,2024-10-09,yahoo_finance
+BNP.PA-20241010,84.14,EUR,BNP Paribas,2024-10-10,yahoo_finance
+BNP.PA-20241011,81.78,EUR,BNP Paribas,2024-10-11,yahoo_finance
+BNP.PA-20241014,85.65,EUR,BNP Paribas,2024-10-14,yahoo_finance
+BNP.PA-20241015,169.39,EUR,BNP Paribas,2024-10-15,yahoo_finance
+BNP.PA-20241016,149.28,EUR,BNP Paribas,2024-10-16,yahoo_finance
+BNP.PA-20241017,210.94,EUR,BNP Paribas,2024-10-17,yahoo_finance
+BNP.PA-20241018,191.59,EUR,BNP Paribas,2024-10-18,yahoo_finance
+BNP.PA-20241021,104.84,EUR,BNP Paribas,2024-10-21,yahoo_finance
+BNP.PA-20241022,78.5,EUR,BNP Paribas,2024-10-22,yahoo_finance
+BNP.PA-20241023,100.94,EUR,BNP Paribas,2024-10-23,yahoo_finance
+BNP.PA-20241024,103.76,EUR,BNP Paribas,2024-10-24,yahoo_finance
+BNP.PA-20241025,86.82,EUR,BNP Paribas,2024-10-25,yahoo_finance
+BNP.PA-20241028,112.74,EUR,BNP Paribas,2024-10-28,yahoo_finance
+BNP.PA-20241029,137.46,EUR,BNP Paribas,2024-10-29,yahoo_finance
+BNP.PA-20241030,122.96,EUR,BNP Paribas,2024-10-30,yahoo_finance
+BNP.PA-20241031,399.59,EUR,BNP Paribas,2024-10-31,yahoo_finance
+BNP.PA-20241101,172.3,EUR,BNP Paribas,2024-11-01,yahoo_finance
+BNP.PA-20241104,111.44,EUR,BNP Paribas,2024-11-04,yahoo_finance
+BNP.PA-20241105,122.78,EUR,BNP Paribas,2024-11-05,yahoo_finance
+BNP.PA-20241106,279.96,EUR,BNP Paribas,2024-11-06,yahoo_finance
+BNP.PA-20241107,285.57,EUR,BNP Paribas,2024-11-07,yahoo_finance
+BNP.PA-20241108,256.9,EUR,BNP Paribas,2024-11-08,yahoo_finance
+BNP.PA-20241111,169.59,EUR,BNP Paribas,2024-11-11,yahoo_finance
+BNP.PA-20241112,208.89,EUR,BNP Paribas,2024-11-12,yahoo_finance
+BNP.PA-20241113,149.49,EUR,BNP Paribas,2024-11-13,yahoo_finance
+BNP.PA-20241114,114.06,EUR,BNP Paribas,2024-11-14,yahoo_finance
+BNP.PA-20241115,125.84,EUR,BNP Paribas,2024-11-15,yahoo_finance
+BNP.PA-20241118,84.37,EUR,BNP Paribas,2024-11-18,yahoo_finance
+BNP.PA-20241119,177.77,EUR,BNP Paribas,2024-11-19,yahoo_finance
+BNP.PA-20241120,161.6,EUR,BNP Paribas,2024-11-20,yahoo_finance
+BNP.PA-20241121,183.84,EUR,BNP Paribas,2024-11-21,yahoo_finance
+BNP.PA-20241122,289.99,EUR,BNP Paribas,2024-11-22,yahoo_finance
+BNP.PA-20241125,247.84,EUR,BNP Paribas,2024-11-25,yahoo_finance
+BNP.PA-20241126,151.04,EUR,BNP Paribas,2024-11-26,yahoo_finance
+BNP.PA-20241127,233.45,EUR,BNP Paribas,2024-11-27,yahoo_finance
+BNP.PA-20241128,121.58,EUR,BNP Paribas,2024-11-28,yahoo_finance
+BNP.PA-20241129,174.94,EUR,BNP Paribas,2024-11-29,yahoo_finance
+BNP.PA-20241202,213.09,EUR,BNP Paribas,2024-12-02,yahoo_finance
+BNP.PA-20241203,184.11,EUR,BNP Paribas,2024-12-03,yahoo_finance
+BNP.PA-20241204,134.82,EUR,BNP Paribas,2024-12-04,yahoo_finance
+BNP.PA-20241205,192.07,EUR,BNP Paribas,2024-12-05,yahoo_finance
+BNP.PA-20241206,200.04,EUR,BNP Paribas,2024-12-06,yahoo_finance
+BNP.PA-20241209,198.84,EUR,BNP Paribas,2024-12-09,yahoo_finance
+BNP.PA-20241210,163.7,EUR,BNP Paribas,2024-12-10,yahoo_finance
+BNP.PA-20241211,97.84,EUR,BNP Paribas,2024-12-11,yahoo_finance
+BNP.PA-20241212,164.09,EUR,BNP Paribas,2024-12-12,yahoo_finance
+BNP.PA-20241213,115.65,EUR,BNP Paribas,2024-12-13,yahoo_finance
+BNP.PA-20241216,94.89,EUR,BNP Paribas,2024-12-16,yahoo_finance
+BNP.PA-20241217,162.77,EUR,BNP Paribas,2024-12-17,yahoo_finance
+BNP.PA-20241218,154.07,EUR,BNP Paribas,2024-12-18,yahoo_finance
+BNP.PA-20241219,147.12,EUR,BNP Paribas,2024-12-19,yahoo_finance
+BNP.PA-20241220,252.76,EUR,BNP Paribas,2024-12-20,yahoo_finance
+BNP.PA-20241223,72.83,EUR,BNP Paribas,2024-12-23,yahoo_finance
+BNP.PA-20241224,25.08,EUR,BNP Paribas,2024-12-24,yahoo_finance
+BNP.PA-20241227,124.37,EUR,BNP Paribas,2024-12-27,yahoo_finance
+BNP.PA-20241230,88.97,EUR,BNP Paribas,2024-12-30,yahoo_finance
+OR.PA-20241001,136.35,EUR,L'Oréal,2024-10-01,yahoo_finance
+OR.PA-20241002,135.14,EUR,L'Oréal,2024-10-02,yahoo_finance
+OR.PA-20241003,105.96,EUR,L'Oréal,2024-10-03,yahoo_finance
+OR.PA-20241004,147.65,EUR,L'Oréal,2024-10-04,yahoo_finance
+OR.PA-20241007,123.41,EUR,L'Oréal,2024-10-07,yahoo_finance
+OR.PA-20241008,124.02,EUR,L'Oréal,2024-10-08,yahoo_finance
+OR.PA-20241009,79.65,EUR,L'Oréal,2024-10-09,yahoo_finance
+OR.PA-20241010,102.41,EUR,L'Oréal,2024-10-10,yahoo_finance
+OR.PA-20241011,101.36,EUR,L'Oréal,2024-10-11,yahoo_finance
+OR.PA-20241014,106.44,EUR,L'Oréal,2024-10-14,yahoo_finance
+OR.PA-20241015,229.11,EUR,L'Oréal,2024-10-15,yahoo_finance
+OR.PA-20241016,303.87,EUR,L'Oréal,2024-10-16,yahoo_finance
+OR.PA-20241017,158.58,EUR,L'Oréal,2024-10-17,yahoo_finance
+OR.PA-20241018,106.79,EUR,L'Oréal,2024-10-18,yahoo_finance
+OR.PA-20241021,102.15,EUR,L'Oréal,2024-10-21,yahoo_finance
+OR.PA-20241022,95.39,EUR,L'Oréal,2024-10-22,yahoo_finance
+OR.PA-20241023,221.55,EUR,L'Oréal,2024-10-23,yahoo_finance
+OR.PA-20241024,124.63,EUR,L'Oréal,2024-10-24,yahoo_finance
+OR.PA-20241025,102.59,EUR,L'Oréal,2024-10-25,yahoo_finance
+OR.PA-20241028,109.9,EUR,L'Oréal,2024-10-28,yahoo_finance
+OR.PA-20241029,105.41,EUR,L'Oréal,2024-10-29,yahoo_finance
+OR.PA-20241030,151.6,EUR,L'Oréal,2024-10-30,yahoo_finance
+OR.PA-20241031,259.86,EUR,L'Oréal,2024-10-31,yahoo_finance
+OR.PA-20241101,125.62,EUR,L'Oréal,2024-11-01,yahoo_finance
+OR.PA-20241104,91.0,EUR,L'Oréal,2024-11-04,yahoo_finance
+OR.PA-20241105,110.15,EUR,L'Oréal,2024-11-05,yahoo_finance
+OR.PA-20241106,209.21,EUR,L'Oréal,2024-11-06,yahoo_finance
+OR.PA-20241107,184.88,EUR,L'Oréal,2024-11-07,yahoo_finance
+OR.PA-20241108,146.16,EUR,L'Oréal,2024-11-08,yahoo_finance
+OR.PA-20241111,117.18,EUR,L'Oréal,2024-11-11,yahoo_finance
+OR.PA-20241112,145.51,EUR,L'Oréal,2024-11-12,yahoo_finance
+OR.PA-20241113,174.5,EUR,L'Oréal,2024-11-13,yahoo_finance
+OR.PA-20241114,154.57,EUR,L'Oréal,2024-11-14,yahoo_finance
+OR.PA-20241115,129.41,EUR,L'Oréal,2024-11-15,yahoo_finance
+OR.PA-20241118,92.74,EUR,L'Oréal,2024-11-18,yahoo_finance
+OR.PA-20241119,128.0,EUR,L'Oréal,2024-11-19,yahoo_finance
+OR.PA-20241120,87.04,EUR,L'Oréal,2024-11-20,yahoo_finance
+OR.PA-20241121,125.0,EUR,L'Oréal,2024-11-21,yahoo_finance
+OR.PA-20241122,151.25,EUR,L'Oréal,2024-11-22,yahoo_finance
+OR.PA-20241125,232.91,EUR,L'Oréal,2024-11-25,yahoo_finance
+OR.PA-20241126,103.32,EUR,L'Oréal,2024-11-26,yahoo_finance
+OR.PA-20241127,96.34,EUR,L'Oréal,2024-11-27,yahoo_finance
+OR.PA-20241128,71.72,EUR,L'Oréal,2024-11-28,yahoo_finance
+OR.PA-20241129,122.64,EUR,L'Oréal,2024-11-29,yahoo_finance
+OR.PA-20241202,143.27,EUR,L'Oréal,2024-12-02,yahoo_finance
+OR.PA-20241203,123.06,EUR,L'Oréal,2024-12-03,yahoo_finance
+OR.PA-20241204,128.84,EUR,L'Oréal,2024-12-04,yahoo_finance
+OR.PA-20241205,115.65,EUR,L'Oréal,2024-12-05,yahoo_finance
+OR.PA-20241206,234.51,EUR,L'Oréal,2024-12-06,yahoo_finance
+OR.PA-20241209,197.57,EUR,L'Oréal,2024-12-09,yahoo_finance
+OR.PA-20241210,172.65,EUR,L'Oréal,2024-12-10,yahoo_finance
+OR.PA-20241211,154.68,EUR,L'Oréal,2024-12-11,yahoo_finance
+OR.PA-20241212,171.26,EUR,L'Oréal,2024-12-12,yahoo_finance
+OR.PA-20241213,183.74,EUR,L'Oréal,2024-12-13,yahoo_finance
+OR.PA-20241216,116.58,EUR,L'Oréal,2024-12-16,yahoo_finance
+OR.PA-20241217,159.77,EUR,L'Oréal,2024-12-17,yahoo_finance
+OR.PA-20241218,158.15,EUR,L'Oréal,2024-12-18,yahoo_finance
+OR.PA-20241219,158.49,EUR,L'Oréal,2024-12-19,yahoo_finance
+OR.PA-20241220,281.0,EUR,L'Oréal,2024-12-20,yahoo_finance
+OR.PA-20241223,80.83,EUR,L'Oréal,2024-12-23,yahoo_finance
+OR.PA-20241224,19.63,EUR,L'Oréal,2024-12-24,yahoo_finance
+OR.PA-20241227,127.54,EUR,L'Oréal,2024-12-27,yahoo_finance
+OR.PA-20241230,85.1,EUR,L'Oréal,2024-12-30,yahoo_finance
+SU.PA-20241001,155.66,EUR,Schneider Electric,2024-10-01,yahoo_finance
+SU.PA-20241002,115.74,EUR,Schneider Electric,2024-10-02,yahoo_finance
+SU.PA-20241003,117.81,EUR,Schneider Electric,2024-10-03,yahoo_finance
+SU.PA-20241004,135.57,EUR,Schneider Electric,2024-10-04,yahoo_finance
+SU.PA-20241007,121.91,EUR,Schneider Electric,2024-10-07,yahoo_finance
+SU.PA-20241008,172.52,EUR,Schneider Electric,2024-10-08,yahoo_finance
+SU.PA-20241009,154.41,EUR,Schneider Electric,2024-10-09,yahoo_finance
+SU.PA-20241010,145.05,EUR,Schneider Electric,2024-10-10,yahoo_finance
+SU.PA-20241011,96.72,EUR,Schneider Electric,2024-10-11,yahoo_finance
+SU.PA-20241014,92.81,EUR,Schneider Electric,2024-10-14,yahoo_finance
+SU.PA-20241015,208.84,EUR,Schneider Electric,2024-10-15,yahoo_finance
+SU.PA-20241016,190.22,EUR,Schneider Electric,2024-10-16,yahoo_finance
+SU.PA-20241017,178.95,EUR,Schneider Electric,2024-10-17,yahoo_finance
+SU.PA-20241018,146.25,EUR,Schneider Electric,2024-10-18,yahoo_finance
+SU.PA-20241021,118.34,EUR,Schneider Electric,2024-10-21,yahoo_finance
+SU.PA-20241022,113.13,EUR,Schneider Electric,2024-10-22,yahoo_finance
+SU.PA-20241023,151.57,EUR,Schneider Electric,2024-10-23,yahoo_finance
+SU.PA-20241024,114.45,EUR,Schneider Electric,2024-10-24,yahoo_finance
+SU.PA-20241025,99.32,EUR,Schneider Electric,2024-10-25,yahoo_finance
+SU.PA-20241028,121.47,EUR,Schneider Electric,2024-10-28,yahoo_finance
+SU.PA-20241029,185.91,EUR,Schneider Electric,2024-10-29,yahoo_finance
+SU.PA-20241030,185.37,EUR,Schneider Electric,2024-10-30,yahoo_finance
+SU.PA-20241031,268.74,EUR,Schneider Electric,2024-10-31,yahoo_finance
+SU.PA-20241101,185.28,EUR,Schneider Electric,2024-11-01,yahoo_finance
+SU.PA-20241104,190.54,EUR,Schneider Electric,2024-11-04,yahoo_finance
+SU.PA-20241105,164.38,EUR,Schneider Electric,2024-11-05,yahoo_finance
+SU.PA-20241106,254.23,EUR,Schneider Electric,2024-11-06,yahoo_finance
+SU.PA-20241107,210.98,EUR,Schneider Electric,2024-11-07,yahoo_finance
+SU.PA-20241108,174.35,EUR,Schneider Electric,2024-11-08,yahoo_finance
+SU.PA-20241111,197.49,EUR,Schneider Electric,2024-11-11,yahoo_finance
+SU.PA-20241112,220.19,EUR,Schneider Electric,2024-11-12,yahoo_finance
+SU.PA-20241113,234.72,EUR,Schneider Electric,2024-11-13,yahoo_finance
+SU.PA-20241114,257.04,EUR,Schneider Electric,2024-11-14,yahoo_finance
+SU.PA-20241115,189.88,EUR,Schneider Electric,2024-11-15,yahoo_finance
+SU.PA-20241118,164.74,EUR,Schneider Electric,2024-11-18,yahoo_finance
+SU.PA-20241119,232.83,EUR,Schneider Electric,2024-11-19,yahoo_finance
+SU.PA-20241120,146.16,EUR,Schneider Electric,2024-11-20,yahoo_finance
+SU.PA-20241121,157.69,EUR,Schneider Electric,2024-11-21,yahoo_finance
+SU.PA-20241122,184.63,EUR,Schneider Electric,2024-11-22,yahoo_finance
+SU.PA-20241125,331.65,EUR,Schneider Electric,2024-11-25,yahoo_finance
+SU.PA-20241126,157.6,EUR,Schneider Electric,2024-11-26,yahoo_finance
+SU.PA-20241127,134.57,EUR,Schneider Electric,2024-11-27,yahoo_finance
+SU.PA-20241128,94.27,EUR,Schneider Electric,2024-11-28,yahoo_finance
+SU.PA-20241129,187.08,EUR,Schneider Electric,2024-11-29,yahoo_finance
+SU.PA-20241202,194.28,EUR,Schneider Electric,2024-12-02,yahoo_finance
+SU.PA-20241203,182.07,EUR,Schneider Electric,2024-12-03,yahoo_finance
+SU.PA-20241204,201.0,EUR,Schneider Electric,2024-12-04,yahoo_finance
+SU.PA-20241205,209.64,EUR,Schneider Electric,2024-12-05,yahoo_finance
+SU.PA-20241206,189.68,EUR,Schneider Electric,2024-12-06,yahoo_finance
+SU.PA-20241209,189.08,EUR,Schneider Electric,2024-12-09,yahoo_finance
+SU.PA-20241210,221.57,EUR,Schneider Electric,2024-12-10,yahoo_finance
+SU.PA-20241211,170.86,EUR,Schneider Electric,2024-12-11,yahoo_finance
+SU.PA-20241212,165.43,EUR,Schneider Electric,2024-12-12,yahoo_finance
+SU.PA-20241213,149.21,EUR,Schneider Electric,2024-12-13,yahoo_finance
+SU.PA-20241216,172.03,EUR,Schneider Electric,2024-12-16,yahoo_finance
+SU.PA-20241217,181.01,EUR,Schneider Electric,2024-12-17,yahoo_finance
+SU.PA-20241218,236.48,EUR,Schneider Electric,2024-12-18,yahoo_finance
+SU.PA-20241219,213.26,EUR,Schneider Electric,2024-12-19,yahoo_finance
+SU.PA-20241220,418.95,EUR,Schneider Electric,2024-12-20,yahoo_finance
+SU.PA-20241223,127.47,EUR,Schneider Electric,2024-12-23,yahoo_finance
+SU.PA-20241224,26.24,EUR,Schneider Electric,2024-12-24,yahoo_finance
+SU.PA-20241227,100.99,EUR,Schneider Electric,2024-12-27,yahoo_finance
+SU.PA-20241230,111.82,EUR,Schneider Electric,2024-12-30,yahoo_finance
+RI.PA-20241001,55.96,EUR,Pernod Ricard,2024-10-01,yahoo_finance
+RI.PA-20241002,49.37,EUR,Pernod Ricard,2024-10-02,yahoo_finance
+RI.PA-20241003,48.67,EUR,Pernod Ricard,2024-10-03,yahoo_finance
+RI.PA-20241004,48.7,EUR,Pernod Ricard,2024-10-04,yahoo_finance
+RI.PA-20241007,48.15,EUR,Pernod Ricard,2024-10-07,yahoo_finance
+RI.PA-20241008,87.39,EUR,Pernod Ricard,2024-10-08,yahoo_finance
+RI.PA-20241009,42.23,EUR,Pernod Ricard,2024-10-09,yahoo_finance
+RI.PA-20241010,56.03,EUR,Pernod Ricard,2024-10-10,yahoo_finance
+RI.PA-20241011,56.81,EUR,Pernod Ricard,2024-10-11,yahoo_finance
+RI.PA-20241014,44.67,EUR,Pernod Ricard,2024-10-14,yahoo_finance
+RI.PA-20241015,57.79,EUR,Pernod Ricard,2024-10-15,yahoo_finance
+RI.PA-20241016,59.28,EUR,Pernod Ricard,2024-10-16,yahoo_finance
+RI.PA-20241017,85.93,EUR,Pernod Ricard,2024-10-17,yahoo_finance
+RI.PA-20241018,66.85,EUR,Pernod Ricard,2024-10-18,yahoo_finance
+RI.PA-20241021,38.74,EUR,Pernod Ricard,2024-10-21,yahoo_finance
+RI.PA-20241022,37.28,EUR,Pernod Ricard,2024-10-22,yahoo_finance
+RI.PA-20241023,40.46,EUR,Pernod Ricard,2024-10-23,yahoo_finance
+RI.PA-20241024,43.62,EUR,Pernod Ricard,2024-10-24,yahoo_finance
+RI.PA-20241025,40.71,EUR,Pernod Ricard,2024-10-25,yahoo_finance
+RI.PA-20241028,37.02,EUR,Pernod Ricard,2024-10-28,yahoo_finance
+RI.PA-20241029,43.62,EUR,Pernod Ricard,2024-10-29,yahoo_finance
+RI.PA-20241030,105.19,EUR,Pernod Ricard,2024-10-30,yahoo_finance
+RI.PA-20241031,90.8,EUR,Pernod Ricard,2024-10-31,yahoo_finance
+RI.PA-20241101,52.27,EUR,Pernod Ricard,2024-11-01,yahoo_finance
+RI.PA-20241104,47.81,EUR,Pernod Ricard,2024-11-04,yahoo_finance
+RI.PA-20241105,44.04,EUR,Pernod Ricard,2024-11-05,yahoo_finance
+RI.PA-20241106,62.97,EUR,Pernod Ricard,2024-11-06,yahoo_finance
+RI.PA-20241107,47.02,EUR,Pernod Ricard,2024-11-07,yahoo_finance
+RI.PA-20241108,58.99,EUR,Pernod Ricard,2024-11-08,yahoo_finance
+RI.PA-20241111,35.0,EUR,Pernod Ricard,2024-11-11,yahoo_finance
+RI.PA-20241112,67.45,EUR,Pernod Ricard,2024-11-12,yahoo_finance
+RI.PA-20241113,50.22,EUR,Pernod Ricard,2024-11-13,yahoo_finance
+RI.PA-20241114,48.98,EUR,Pernod Ricard,2024-11-14,yahoo_finance
+RI.PA-20241115,37.79,EUR,Pernod Ricard,2024-11-15,yahoo_finance
+RI.PA-20241118,34.4,EUR,Pernod Ricard,2024-11-18,yahoo_finance
+RI.PA-20241119,34.61,EUR,Pernod Ricard,2024-11-19,yahoo_finance
+RI.PA-20241120,54.5,EUR,Pernod Ricard,2024-11-20,yahoo_finance
+RI.PA-20241121,44.43,EUR,Pernod Ricard,2024-11-21,yahoo_finance
+RI.PA-20241122,56.95,EUR,Pernod Ricard,2024-11-22,yahoo_finance
+RI.PA-20241125,135.65,EUR,Pernod Ricard,2024-11-25,yahoo_finance
+RI.PA-20241126,52.58,EUR,Pernod Ricard,2024-11-26,yahoo_finance
+RI.PA-20241127,34.95,EUR,Pernod Ricard,2024-11-27,yahoo_finance
+RI.PA-20241128,46.72,EUR,Pernod Ricard,2024-11-28,yahoo_finance
+RI.PA-20241129,63.26,EUR,Pernod Ricard,2024-11-29,yahoo_finance
+RI.PA-20241202,56.93,EUR,Pernod Ricard,2024-12-02,yahoo_finance
+RI.PA-20241203,62.05,EUR,Pernod Ricard,2024-12-03,yahoo_finance
+RI.PA-20241204,76.76,EUR,Pernod Ricard,2024-12-04,yahoo_finance
+RI.PA-20241205,71.09,EUR,Pernod Ricard,2024-12-05,yahoo_finance
+RI.PA-20241206,56.02,EUR,Pernod Ricard,2024-12-06,yahoo_finance
+RI.PA-20241209,84.96,EUR,Pernod Ricard,2024-12-09,yahoo_finance
+RI.PA-20241210,87.77,EUR,Pernod Ricard,2024-12-10,yahoo_finance
+RI.PA-20241211,85.08,EUR,Pernod Ricard,2024-12-11,yahoo_finance
+RI.PA-20241212,81.66,EUR,Pernod Ricard,2024-12-12,yahoo_finance
+RI.PA-20241213,71.47,EUR,Pernod Ricard,2024-12-13,yahoo_finance
+RI.PA-20241216,68.99,EUR,Pernod Ricard,2024-12-16,yahoo_finance
+RI.PA-20241217,87.78,EUR,Pernod Ricard,2024-12-17,yahoo_finance
+RI.PA-20241218,69.28,EUR,Pernod Ricard,2024-12-18,yahoo_finance
+RI.PA-20241219,58.8,EUR,Pernod Ricard,2024-12-19,yahoo_finance
+RI.PA-20241220,171.82,EUR,Pernod Ricard,2024-12-20,yahoo_finance
+RI.PA-20241223,41.21,EUR,Pernod Ricard,2024-12-23,yahoo_finance
+RI.PA-20241224,10.49,EUR,Pernod Ricard,2024-12-24,yahoo_finance
+RI.PA-20241227,37.71,EUR,Pernod Ricard,2024-12-27,yahoo_finance
+RI.PA-20241230,39.31,EUR,Pernod Ricard,2024-12-30,yahoo_finance

@@ -1,0 +1,55 @@
+id,amount,currency,entity,date,source
+TXN-001,12500.00,EUR,LVMH,2024-01-15,bloomberg
+TXN-002,8750.50,USD,Apple Inc,2024-01-15,bloomberg
+TXN-003,3200.00,GBP,Barclays,2024-01-15,reuters
+TXN-004,45000.00,EUR,TotalEnergies,2024-01-15,bloomberg
+TXN-005,1850.75,CHF,Nestlé,2024-01-15,reuters
+TXN-006,22000.00,USD,Microsoft,2024-01-15,bloomberg
+TXN-007,9500.00,EUR,BNP Paribas,2024-01-15,internal
+TXN-008,6700.25,GBP,HSBC,2024-01-15,reuters
+TXN-009,31000.00,USD,Amazon,2024-01-15,bloomberg
+TXN-010,4200.00,CHF,UBS,2024-01-15,internal
+TXN-011,18500.00,EUR,Airbus,2024-01-15,bloomberg
+TXN-012,7300.50,USD,Tesla,2024-01-15,bloomberg
+TXN-013,2900.00,GBP,Vodafone,2024-01-15,reuters
+TXN-014,55000.00,EUR,Volkswagen,2024-01-15,bloomberg
+TXN-015,3100.25,CHF,Roche,2024-01-15,internal
+TXN-016,14200.00,USD,Meta,2024-01-15,bloomberg
+TXN-017,8900.00,EUR,Société Générale,2024-01-15,internal
+TXN-018,5600.75,GBP,Rolls-Royce,2024-01-15,reuters
+TXN-019,27000.00,USD,Nvidia,2024-01-15,bloomberg
+TXN-020,11500.00,EUR,Sanofi,2024-01-15,bloomberg
+TXN-021,6800.00,CHF,ABB,2024-01-15,internal
+TXN-022,19000.00,USD,JPMorgan,2024-01-15,bloomberg
+TXN-023,4500.00,EUR,Renault,2024-01-15,reuters
+TXN-024,33000.00,GBP,AstraZeneca,2024-01-15,bloomberg
+TXN-025,2750.50,CHF,Zurich Insurance,2024-01-15,internal
+TXN-026,16500.00,EUR,ENGIE,2024-01-15,bloomberg
+TXN-027,8100.25,USD,Goldman Sachs,2024-01-15,bloomberg
+TXN-028,5200.00,GBP,BP,2024-01-15,reuters
+TXN-029,42000.00,EUR,SAP,2024-01-15,bloomberg
+TXN-030,3900.75,CHF,Novartis,2024-01-15,internal
+TXN-031,11000.00,USD,Disney,2024-01-15,bloomberg
+TXN-032,7600.00,EUR,Carrefour,2024-01-15,reuters
+TXN-033,4100.50,GBP,Tesco,2024-01-15,reuters
+TXN-034,25000.00,USD,Alphabet,2024-01-15,bloomberg
+TXN-035,9800.00,CHF,Credit Suisse,2024-01-15,internal
+TXN-036,13700.00,EUR,Michelin,2024-01-15,bloomberg
+TXN-037,6300.25,USD,IBM,2024-01-15,bloomberg
+TXN-038,3800.00,GBP,Unilever,2024-01-15,reuters
+TXN-039,48000.00,EUR,Stellantis,2024-01-15,bloomberg
+TXN-040,5500.50,CHF,Swatch,2024-01-15,internal
+TXN-041,17800.00,USD,Morgan Stanley,2024-01-15,bloomberg
+TXN-042,8400.00,EUR,Orange,2024-01-15,reuters
+TXN-043,4700.75,GBP,BT Group,2024-01-15,reuters
+TXN-044,36000.00,USD,Salesforce,2024-01-15,bloomberg
+TXN-045,7100.00,CHF,Julius Baer,2024-01-15,internal
+TXN-046,20500.00,EUR,Capgemini,2024-01-15,bloomberg
+TXN-047,5900.25,USD,Cisco,2024-01-15,bloomberg
+TXN-048,3600.00,GBP,Diageo,2024-01-15,reuters
+TXN-049,29000.00,EUR,Schneider Electric,2024-01-15,bloomberg
+TXN-050,8200.75,CHF,Lonza,2024-01-15,internal
+TXN-002,8750.50,USD,Apple Inc,2024-01-15,bloomberg
+TXN-019,27000.00,USD,Nvidia,2024-01-15,bloomberg
+TXN-051,-500.00,EUR,ErrorCorp,2024-01-15,internal
+TXN-052,9900.00,XYZ,FakeCurrency Ltd,2024-01-15,internal
