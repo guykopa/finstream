@@ -61,7 +61,7 @@ jobs:
           JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
 
       - name: Fail if coverage below 90%
-        run: pytest --cov=finstream --cov-fail-under=90 --no-header -q
+        run: pytest tests/unit/ --cov=finstream --cov-fail-under=90 --cov-report=html --no-header -q
         env:
           JWT_SECRET: ci-test-secret-key-minimum-32-characters!!
 
