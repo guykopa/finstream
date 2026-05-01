@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.quality.valid_currency_rule import ValidCurrencyRule
 

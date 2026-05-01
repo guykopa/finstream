@@ -3,7 +3,6 @@ from datetime import date
 
 import numpy as np
 import pandas as pd
-import pytest
 
 from tests.conftest import FakeDataSource, FakeDataStorage
 from finstream.domain.models.pipeline_report import PipelineStatus

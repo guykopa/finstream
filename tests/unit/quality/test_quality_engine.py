@@ -2,7 +2,6 @@ import pytest
 
 from finstream.domain.exceptions import QualityGateError
 from finstream.domain.models.pipeline_report import QualityStatus
-from finstream.quality.date_range_rule import DateRangeRule
 from finstream.quality.no_duplicate_rule import NoDuplicateRule
 from finstream.quality.not_null_rule import NotNullRule
 from finstream.quality.positive_amount_rule import PositiveAmountRule

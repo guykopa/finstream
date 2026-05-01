@@ -1,5 +1,4 @@
 import os
-import pytest
 from fastapi.testclient import TestClient
 
 os.environ.setdefault("JWT_SECRET", "test-api-secret-key-minimum-32-chars!!")

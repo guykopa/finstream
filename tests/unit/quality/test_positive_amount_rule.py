@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.quality.positive_amount_rule import PositiveAmountRule
 

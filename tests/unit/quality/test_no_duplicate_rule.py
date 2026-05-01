@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.quality.no_duplicate_rule import NoDuplicateRule
 

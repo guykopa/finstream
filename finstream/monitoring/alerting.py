@@ -7,7 +7,7 @@ from typing import Callable
 class AlertSeverity(str, Enum):
     """Alert severity level."""
 
-    WARNING  = "WARNING"
+    WARNING = "WARNING"
     CRITICAL = "CRITICAL"
 
 

@@ -2,7 +2,6 @@ import time
 import uuid
 from datetime import date, datetime
 
-from finstream.bigdata.chunk_processor import ChunkProcessor
 from finstream.bigdata.memory_optimizer import MemoryOptimizer
 from finstream.domain.models.pipeline_report import PipelineReport, PipelineStatus
 from finstream.interfaces.i_data_source import IDataSource
@@ -51,7 +50,6 @@ class ETLService:
         started_at = datetime.utcnow()
         start_time = time.monotonic()
 
-        processor = ChunkProcessor(chunk_size=self._chunk_size)
         optimizer = MemoryOptimizer()
         engine = QualityEngine(
             rules=self._rules,

@@ -1,6 +1,5 @@
 import json
 
-import pytest
 
 from finstream.report.report_generator import JSONReportGenerator
 

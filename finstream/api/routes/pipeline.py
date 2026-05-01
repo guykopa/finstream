@@ -15,7 +15,6 @@ from finstream.api.schemas import PipelineRunRequest, PipelineRunResponse
 from finstream.domain.exceptions import (
     DataSourceUnavailableError,
     DataStorageError,
-    PipelineError,
     QualityGateError,
 )
 from finstream.domain.services.quality_service import QualityService

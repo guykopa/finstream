@@ -1,5 +1,5 @@
 """Unit tests for PostgreSQLStorage — mocked psycopg2, no real DB."""
-from unittest.mock import MagicMock, patch, call
+from unittest.mock import MagicMock, patch
 import pandas as pd
 import pytest
 

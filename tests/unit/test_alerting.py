@@ -1,4 +1,3 @@
-import pytest
 
 from finstream.monitoring.alerting import Alert, AlertingService, AlertSeverity
 

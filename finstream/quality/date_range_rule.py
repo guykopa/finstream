@@ -1,5 +1,3 @@
-from datetime import datetime, timezone
-
 import pandas as pd
 
 from finstream.domain.models.quality_result import QualityResult

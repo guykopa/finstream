@@ -1,5 +1,3 @@
-import pytest
-
 from finstream.api.security.rate_limiter import RateLimiter
 
 
@@ -31,7 +29,8 @@ class TestRateLimiter:
     def test_expired_requests_are_not_counted(self) -> None:
         limiter = RateLimiter(max_requests=1, window_seconds=1)
         limiter.is_allowed("client-1")
-        import time; time.sleep(1.1)
+        import time
+        time.sleep(1.1)
         assert limiter.is_allowed("client-1") is True
 
     def test_remaining_returns_correct_count(self) -> None:

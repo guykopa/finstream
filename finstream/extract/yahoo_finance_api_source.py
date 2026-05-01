@@ -15,18 +15,18 @@ _HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 # Default tickers: US tech + US finance + CAC 40 blue chips
 DEFAULT_TICKERS: dict[str, str] = {
-    "AAPL":  "Apple",
-    "MSFT":  "Microsoft",
+    "AAPL": "Apple",
+    "MSFT": "Microsoft",
     "GOOGL": "Alphabet",
-    "AMZN":  "Amazon",
-    "NVDA":  "Nvidia",
-    "META":  "Meta",
-    "JPM":   "JPMorgan",
-    "GS":    "Goldman Sachs",
+    "AMZN": "Amazon",
+    "NVDA": "Nvidia",
+    "META": "Meta",
+    "JPM": "JPMorgan",
+    "GS": "Goldman Sachs",
     "MC.PA": "LVMH",
-    "AIR.PA":"Airbus",
-    "TTE.PA":"TotalEnergies",
-    "SAN.PA":"Sanofi",
+    "AIR.PA": "Airbus",
+    "TTE.PA": "TotalEnergies",
+    "SAN.PA": "Sanofi",
 }
 
 
@@ -85,11 +85,11 @@ class YahooFinanceAPISource(IDataSource):
                     if not result:
                         continue
 
-                    meta       = result[0]["meta"]
+                    meta = result[0]["meta"]
                     timestamps = result[0].get("timestamp", [])
-                    quotes     = result[0]["indicators"]["quote"][0]
-                    closes     = quotes.get("close", [])
-                    volumes    = quotes.get("volume", [])
+                    quotes = result[0]["indicators"]["quote"][0]
+                    closes = quotes.get("close", [])
+                    volumes = quotes.get("volume", [])
 
                     for ts, close, volume in zip(timestamps, closes, volumes):
                         if close is None or volume is None:

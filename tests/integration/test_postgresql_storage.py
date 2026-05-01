@@ -1,6 +1,5 @@
 """Integration tests for PostgreSQLStorage — requires a running PostgreSQL."""
 import os
-from datetime import date
 
 import pandas as pd
 import pytest

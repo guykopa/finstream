@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.transform.date_standardizer import DateStandardizer
 

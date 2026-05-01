@@ -1,6 +1,5 @@
 import pandas as pd
 
-from finstream.domain.exceptions import TransformationError
 from finstream.interfaces.i_transformer import ITransformer
 
 

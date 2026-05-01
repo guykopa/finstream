@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.bigdata.chunk_processor import ChunkProcessor
 

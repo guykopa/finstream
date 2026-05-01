@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from finstream.quality.date_range_rule import DateRangeRule
 

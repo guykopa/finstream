@@ -2,7 +2,6 @@ from typing import Iterator
 
 import pandas as pd
 
-from finstream.domain.exceptions import DataStorageError
 from finstream.interfaces.i_data_storage import IDataStorage
 
 

@@ -22,7 +22,8 @@ def _load_dashboard_data() -> DashboardData:
 
     with engine.connect() as conn:
         row = conn.execute(text(
-            "SELECT COUNT(*), COALESCE(SUM(amount), 0), COUNT(DISTINCT entity), COUNT(DISTINCT date)"
+            "SELECT COUNT(*), COALESCE(SUM(amount), 0),"
+            " COUNT(DISTINCT entity), COUNT(DISTINCT date)"
             " FROM transactions"
         )).fetchone()
         data.total_transactions = int(row[0])
