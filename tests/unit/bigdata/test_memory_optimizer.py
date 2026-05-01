@@ -25,7 +25,7 @@ class TestMemoryOptimizer:
             "id": [f"tx-{i}" for i in range(1000)],
         })
         result = MemoryOptimizer().optimize(df)
-        assert result["id"].dtype == object
+        assert str(result["id"].dtype) != "category"
 
     def test_memory_usage_is_reduced(self, large_df: pd.DataFrame) -> None:
         before = large_df.memory_usage(deep=True).sum()

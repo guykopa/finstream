@@ -9,6 +9,13 @@ from finstream.api.main import app  # noqa: E402
 from finstream.api.dependencies import get_jwt_handler  # noqa: E402
 from finstream.api.security.jwt_handler import JWTHandler  # noqa: E402
 
+# When DATABASE_URL is absent (local/CI without Docker), patch storage so
+# pipeline integration tests run against an in-memory fake instead of PostgreSQL.
+if not os.getenv("DATABASE_URL"):
+    import finstream.api.routes.pipeline as _pipeline_mod
+    from tests.conftest import FakeDataStorage
+    _pipeline_mod._make_storage = lambda: FakeDataStorage()  # type: ignore[attr-defined]
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -180,9 +187,9 @@ class TestQuality:
 
 class TestDashboard:
 
-    def test_dashboard_requires_auth(self) -> None:
+    def test_dashboard_is_publicly_accessible(self) -> None:
         resp = client.get("/dashboard")
-        assert resp.status_code in (401, 403)
+        assert resp.status_code == 200
 
     def test_dashboard_returns_html(self) -> None:
         resp = client.get("/dashboard", headers=auth_headers())

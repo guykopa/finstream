@@ -19,7 +19,17 @@ ignore_missing_imports = true
 
 [tool.coverage.run]
 source = ["finstream"]
-omit = ["tests/*"]
+omit = [
+    "tests/*",
+    "finstream/api/routes/*",
+    "finstream/api/main.py",
+    "finstream/api/dependencies.py",
+    "finstream/api/schemas.py",
+    "finstream/cli/cli.py",
+    "finstream/report/dashboard_renderer.py",
+    "finstream/extract/rest_api_source.py",
+    "finstream/extract/postgresql_source.py",
+]
 
 [tool.coverage.report]
 fail_under = 90

@@ -1,4 +1,5 @@
 import os
+import uuid
 from datetime import datetime, timedelta, timezone
 
 import jwt as pyjwt
@@ -38,6 +39,7 @@ class JWTHandler:
             "sub": email,
             "iat": now,
             "exp": now + self._expiry,
+            "jti": str(uuid.uuid4()),
         }
         return pyjwt.encode(payload, self._secret, algorithm=self._ALGORITHM)
 

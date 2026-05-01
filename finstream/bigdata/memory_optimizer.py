@@ -37,7 +37,9 @@ class MemoryOptimizer:
             elif col_dtype == "int64":
                 result[col] = result[col].astype("int32")
 
-            elif col_dtype == object:
+            elif col_dtype == object or (
+                hasattr(pd, "StringDtype") and isinstance(col_dtype, pd.StringDtype)
+            ):
                 n_unique = result[col].nunique()
                 n_total = len(result[col])
                 if n_total > 0 and (n_unique / n_total) < _CATEGORY_THRESHOLD:
