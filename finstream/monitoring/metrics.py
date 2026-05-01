@@ -53,12 +53,12 @@ class PipelineMetrics:
 
     def get_run_count(self, status: str) -> float:
         """Return the current value of the run counter for a given status."""
-        return self._runs_total.labels(status=status)._value.get()
+        return float(self._runs_total.labels(status=status)._value.get())
 
     def get_quality_score(self) -> float:
         """Return the current quality score gauge value."""
-        return self._quality_score._value.get()
+        return float(self._quality_score._value.get())
 
     def get_records_processed(self) -> float:
         """Return the total records processed counter value."""
-        return self._records_processed._value.get()
+        return float(self._records_processed._value.get())

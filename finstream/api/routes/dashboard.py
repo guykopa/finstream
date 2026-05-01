@@ -26,10 +26,11 @@ def _load_dashboard_data() -> DashboardData:
             " COUNT(DISTINCT entity), COUNT(DISTINCT date)"
             " FROM transactions"
         )).fetchone()
-        data.total_transactions = int(row[0])
-        data.total_amount_eur = float(row[1])
-        data.unique_entities = int(row[2])
-        data.trading_days = int(row[3])
+        if row is not None:
+            data.total_transactions = int(row[0])
+            data.total_amount_eur = float(row[1])
+            data.unique_entities = int(row[2])
+            data.trading_days = int(row[3])
 
         rows = conn.execute(text(
             "SELECT date::text, SUM(amount) FROM transactions"

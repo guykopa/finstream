@@ -1,3 +1,5 @@
+from typing import Any
+
 from fastapi import APIRouter, Depends, HTTPException, status
 
 import os
@@ -18,6 +20,7 @@ from finstream.domain.exceptions import (
     QualityGateError,
 )
 from finstream.domain.services.quality_service import QualityService
+from finstream.interfaces.i_data_source import IDataSource
 from finstream.load.postgresql_storage import PostgreSQLStorage
 from finstream.monitoring.alerting import AlertingService
 from finstream.monitoring.logger import StructuredLogger
@@ -27,7 +30,7 @@ from finstream.pipeline.etl_pipeline import ETLPipeline
 router = APIRouter(prefix="/pipeline", tags=["pipeline"])
 
 # In-memory store for run statuses (replace with DB in production)
-_run_store: dict[str, dict] = {}
+_run_store: dict[str, dict[str, Any]] = {}
 
 
 def _make_storage() -> PostgreSQLStorage:
@@ -40,6 +43,7 @@ def _make_storage() -> PostgreSQLStorage:
 
 def _build_pipeline(request: PipelineRunRequest) -> ETLPipeline:
     """Build an ETLPipeline wired to the requested source and storage."""
+    source: IDataSource
     if request.source == "csv":
         if not request.file_path:
             raise ValueError("file_path is required when source=csv")

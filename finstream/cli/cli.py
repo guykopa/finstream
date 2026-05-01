@@ -17,6 +17,7 @@ _logger = StructuredLogger("finstream.cli")
 def _cmd_run(args: argparse.Namespace) -> int:
     """Execute the ETL pipeline for a given business date."""
     from tests.conftest import FakeDataSource, FakeDataStorage
+    from finstream.interfaces.i_data_source import IDataSource
     from finstream.pipeline.etl_pipeline import ETLPipeline
     from finstream.domain.exceptions import QualityGateError, DataSourceUnavailableError
 
@@ -29,6 +30,7 @@ def _cmd_run(args: argparse.Namespace) -> int:
     _logger.info("CLI pipeline run started", date=str(business_date))
 
     try:
+        source: IDataSource
         if args.source == "csv":
             from finstream.extract.csv_source import CSVSource
             source = CSVSource(args.file)

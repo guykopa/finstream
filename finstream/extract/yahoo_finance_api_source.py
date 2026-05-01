@@ -69,7 +69,7 @@ class YahooFinanceAPISource(IDataSource):
             DataSourceUnavailableError: if Yahoo Finance is unreachable.
         """
         target = business_date.isoformat()
-        rows: list[dict] = []
+        rows: list[dict[str, object]] = []
 
         try:
             with httpx.Client(timeout=self._timeout, headers=_HEADERS) as client:
